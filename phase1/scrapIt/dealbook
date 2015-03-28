@@ -1,0 +1,2188 @@
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js section-dealbook format-long tone-news app-article page-theme-standard has-large-lede" itemid="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html" itemtype="http://schema.org/NewsArticle"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 section-dealbook format-long tone-news app-article page-theme-standard has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 section-dealbook format-long tone-news app-article page-theme-standard has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 section-dealbook format-long tone-news app-article page-theme-standard has-large-lede" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+    <title>BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger - NYTimes.com</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var o=e[t]={exports:{}};n[t][0].call(o.exports,function(e){var o=n[t][1][e];return r(o?o:e)},o,o.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(n,e){function t(n){function e(e,t,a){n&&n(e,t,a),a||(a={});for(var u=c(e),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(n,e){f[n]=c(n).concat(e)}function c(n){return f[n]||[]}function u(){return t(e)}var f={};return{on:a,emit:e,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=n("gos");e.exports=t()},{gos:"7eSDFh"}],ee:[function(n,e){e.exports=n("QJf3ax")},{}],3:[function(n,e){function t(n){return function(){r(n,[(new Date).getTime()].concat(i(arguments)))}}var r=n("handle"),o=n(1),i=n(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(n,e){window.NREUM[e]=t("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(n,e){e.exports=n("7eSDFh")},{}],"7eSDFh":[function(n,e){function t(n,e,t){if(r.call(n,e))return n[e];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return n[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],D5DuLP:[function(n,e){function t(n,e,t){return r.listeners(n).length?r.emit(n,e,t):(o[n]||(o[n]=[]),void o[n].push(e))}var r=n("ee").create(),o={};e.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(n,e){e.exports=n("D5DuLP")},{}],XL7HBI:[function(n,e){function t(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:i(n,o,function(){return r++})}var r=1,o="nr@id",i=n("gos");e.exports=t},{gos:"7eSDFh"}],id:[function(n,e){e.exports=n("XL7HBI")},{}],loader:[function(n,e){e.exports=n("G9z0Bl")},{}],G9z0Bl:[function(n,e){function t(){var n=h.info=NREUM.info;if(n&&n.licenseKey&&n.applicationID&&f&&f.body){c(l,function(e,t){e in n||(n[e]=t)}),h.proto="https"===d.split(":")[0]||n.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=h.proto+n.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=n("handle"),c=n(1),u=(n(2),window),f=u.document,s="addEventListener",p="attachEvent",d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},h=e.exports={offset:i(),origin:d,features:{}};f[s]?(f[s]("DOMContentLoaded",o,!1),u[s]("load",t,!1)):(f[p]("onreadystatechange",r),u[p]("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],12:[function(n,e){function t(n,e){var t=[],o="",i=0;for(o in n)r.call(n,o)&&(t[i]=e(o,n[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;e.exports=t},{}],13:[function(n,e){function t(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,o=t-e||0,i=Array(0>o?0:o);++r<o;)i[r]=n[e+r];return i}e.exports=t},{}]},{},["G9z0Bl"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<link rel="shortcut icon" href="http://static01.nyt.com/favicon.ico" />
+<link rel="apple-touch-icon-precomposed" sizes="144×144" href="http://static01.nyt.com/images/icons/ios-ipad-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114×114" href="http://static01.nyt.com/images/icons/ios-iphone-114x144.png" />
+<link rel="apple-touch-icon-precomposed" href="http://static01.nyt.com/images/icons/ios-default-homescreen-57x57.png" />
+<meta name="sourceApp" content="nyt-v5" />
+<meta id="applicationName" name="applicationName" content="article" />
+<meta id="foundation-build-id" name="foundation-build-id" content="" />
+<link rel="canonical" href="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html" />
+<link rel="alternate" href="http://mobile.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html" />
+<meta name="robots" content="noarchive" />
+<meta itemprop="alternativeHeadline" name="hdl_p" content="A New Breed of Bond Fund Prizes Stability Over Swagger" />
+<meta name="channels" content="" />
+<meta itemprop="description" name="description" content="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)." />
+<meta itemprop="genre" content="News" />
+<meta itemprop="identifier" name="articleid" content="100000003580774" />
+<meta itemprop="usageTerms" name="usageTerms" content="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html" />
+<meta itemprop="inLanguage" content="en-US" />
+<meta name="hdl" content="BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger" />
+<meta name="col" content="" id="column-name" />
+<meta name="pdate" content="20150318" />
+<meta name="utime" content="20150320104210" />
+<meta name="ptime" content="20150318204716" />
+<meta name="DISPLAYDATE" content="March 18, 2015" />
+<meta name="dat" content="March 18, 2015" />
+<meta name="lp" content="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)." />
+<meta name="msapplication-starturl" content="http://www.nytimes.com" />
+<meta name="cre" content="The New York Times" />
+<meta name="slug" content="19db-funds" />
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/business/dealbook/index.jsonp" />
+<meta name="sectionfront_jsonp" content="http://json8.nytimes.com/services/json/sectionfronts/business/dealbook/index.jsonp" />
+<meta property="og:url" content="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger" />
+<meta property="og:description" content="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)." />
+<meta property="article:published" itemprop="datePublished" content="2015-03-18" />
+<meta property="article:section" itemprop="articleSection" content="DealBook" />
+<meta property="article:section-taxonomy-id" itemprop="articleSection" content="104D1E63-9701-497B-8CF4-A4D120C9014E" />
+<meta property="fb:app_id" content="9869919170" />
+<meta name="twitter:card" value="summary" />
+<meta name="twitter:site" value="@nytimes" />
+<meta property="twitter:url" content="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html" />
+<meta property="twitter:title" content="BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger" />
+<meta property="twitter:description" content="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)." />
+<meta name="author" content="Landon Thomas Jr." />
+<meta name="tone" content="news" id="article-tone" />
+<meta name="byl" content="By LANDON THOMAS Jr." />
+<meta name="PT" content="article" />
+<meta name="CG" content="business" />
+<meta name="SCG" content="dealbook" />
+<meta name="PST" content="News" />
+<meta name="tom" content="News" />
+<meta name="edt" content="NewYork" />
+<meta property="og:image" content="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-facebookJumbo.jpg" />
+<meta property="article:author" content="http://topics.nytimes.com/top/reference/timestopics/people/t/landon_jr_thomas/index.html" />
+<meta property="article:tag" content="BlackRock Inc" />
+<meta name="org" content="BlackRock Inc" />
+<meta property="article:tag" content="Exchange Traded Funds" />
+<meta name="des" content="Exchange Traded Funds" />
+<meta property="article:tag" content="Stocks and Bonds" />
+<meta name="des" content="Stocks and Bonds" />
+<meta name="keywords" content="BlackRock Inc,Exchange Traded Funds,Radell  Scott,Stocks and Bonds" />
+<meta name="news_keywords" content="ETF;Stocks and Bonds" />
+<meta property="article:modified" itemprop="dateModified" content="2015-03-20" />
+<meta name="thumbnail_150" content="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-thumbLarge.jpg" />
+<meta name="thumbnail_150_height" content="150" />
+<meta name="thumbnail_150_width" content="150" />
+<meta property="twitter:image" content="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-thumbLarge.jpg" />
+<meta itemprop="thumbnailUrl" name="thumbnail" content="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-thumbStandard.jpg" />
+<meta name="thumbnail_height" content="75" />
+<meta name="thumbnail_width" content="75" />
+    
+                <!--[if (gt IE 9)|!(IE)]> <!-->
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150320-155522/css/article/styles.css" />
+    <!--<![endif]-->
+    <!--[if lte IE 9]>
+        <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/article/20150320-155522/css/article/styles-ie.css" />
+    <![endif]-->
+<link rel="stylesheet" type="text/css" media="print" href="http://a1.nyt.com/assets/article/20150320-155522/css/article/styles-print.css" />
+            <script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION STARTED **/
+    _sf_async_config.uid = "16698";
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.domain = (function () {
+        var domain = '';
+        var edition = unescape(document.cookie).match('NYT-Edition=([^;]+)');
+
+        if (edition && edition[1] && edition[1].indexOf("edition|GLOBAL") !== -1) {
+                        domain = "international.nytimes.com";
+                    } else {
+                        domain = "www.nytimes.com";
+                    }
+        return domain;
+    }());
+    /** CONFIGURATION END **/
+</script>
+<script src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
+            	<script id="ad-config-data" type="text/json">
+{"adconfig":{"ledeMediaSize":"large","adxKeywords":["article-long"]}}</script>
+    <script id="display_overrides">
+            []    </script>
+
+	<script src="http://a1.nyt.com/assets/article/20150320-155522/js/article/ad-loader.js"></script>
+<script id="abtestconfig" type="application/json">
+[
+    {
+        "testId": "0002",
+        "testName": "promotron",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1
+    },
+    {
+        "testId": "0012",
+        "testName": "tallWatchingModule",
+        "throttle": 1.0,
+        "allocation": 0.9,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0015",
+        "testName": "anonRecommendations",
+        "throttle": 0.1,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0016",
+        "testName": "newsletterSignup",
+        "throttle": 1.0,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0017",
+        "testName": "homepageRefresh",
+        "throttle": 0.02,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["homepage"]
+    },
+    {
+        "testId": "0020",
+        "testName": "homepageRecirc",
+        "throttle": 0.25,
+        "allocation": 0.8,
+        "variants": 4,
+        "applications": ["article"]
+    },
+    {
+        "testId": "0021",
+        "testName": "storyPageBranding",
+        "throttle": 0.5,
+        "allocation": 0.5,
+        "variants": 1,
+        "applications": ["article"]
+    }
+]
+
+</script>
+
+<script>
+var require = {
+    baseUrl: 'http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'article/20150320-155522/js/foundation',
+        'shared': 'article/20150320-155522/js/shared',
+        'article': 'article/20150320-155522/js/article',
+        'videoFactory': 'http://static01.nyt.com/js2/build/video/2.0/videofactoryrequire',
+        'videoPlaylist': 'http://static01.nyt.com/js2/build/video/players/extended/2.0/appRequire',
+        'auth/mtr': 'http://static01.nyt.com/js/mtr',
+        'auth/growl': 'http://static01.nyt.com/js/auth/growl/default',
+        'vhs': 'http://static01.nyt.com/video/vhs/build/vhs-2.x.min'
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://a1.nyt.com/assets/article/20150320-155522/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/article/20150320-155522/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+window.magnum.processFlags(["limitFabrikSave","anonymousRecommendations","retinaSprites","magazineDropcap","newsletterSignup","whatsNextRefactor"]);
+</script>
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr', 'auth/growl']);
+});
+</script>
+</head>
+<body>
+    
+    <style>
+    .lt-ie9 .messenger.suggestions {
+        display: block !important;
+        height: 50px;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-bed {
+        background-color: #f8e9d2;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .lt-ie9 .messenger.suggestions .message-container {
+        padding: 11px 18px 11px 30px;
+    }
+
+    .lt-ie9 .messenger.suggestions .action-link {
+        font-family: "nyt-franklin", arial, helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: bold;
+        color: #a81817;
+        text-transform: uppercase;
+    }
+
+    .lt-ie9 .messenger.suggestions .alert-icon {
+        background: url('http://i1.nyt.com/images/icons/icon-alert-12x12-a81817.png') no-repeat;
+        width: 12px;
+        height: 12px;
+        display: inline-block;
+        margin-top: -2px;
+        float: none;
+    }
+
+    .lt-ie9 .masthead,
+    .lt-ie9 .navigation,
+    .lt-ie9 .comments-panel {
+        margin-top: 50px !important;
+    }
+
+    .lt-ie9 .ribbon {
+        margin-top: 97px !important;
+    }
+</style>
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+    <div class="message-bed">
+        <div class="message-container last-message-container">
+            <div class="message">
+                <span class="message-content">
+                    <i class="icon alert-icon"></i><span class="message-title">NYTimes.com no longer supports Internet Explorer 8 or earlier. Please upgrade your browser.</span>
+                    <a href="http://www.nytimes.com/content/help/site/ie8-support.html" class="action-link">LEARN MORE »</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+    <div id="shell" class="shell">
+    <header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#story-header">Skip to content</a>
+                        <a class="button skip-button skip-to-navigation visually-hidden focusable" href="#site-index-navigation">Skip to navigation</a>
+                                    <a class="button skip-button skip-to-mobile visually-hidden focusable" href="http://mobile.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html">View mobile version</a>
+                    </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a href="http://www.nytimes.com/">
+                    <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150320-155522/images/foundation/logos/', 'business', 'masthead-theme-standard', 'standard');</script>
+                </a>
+            </h2>
+        </div><!-- close branding -->
+                <div class="story-meta">
+            <h6 class="kicker"><span class="kicker-label"><a href="http://www.nytimes.com/pages/business/dealbook/index.html">DealBook</a></span><span class="pipe">|</span>BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger</h6>
+        </div><!-- close story-meta -->        <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent"></div>        <div class="user-tools">
+            <div id="sharetools-masthead" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-masthead  "
+data-shares="email,facebook,twitter,show-all|More"
+data-url="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html"
+data-title="BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger"
+data-media="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-jumbo.jpg"
+data-description="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)."
+	data-publish-date="March 18, 2015"
+>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+</div>
+</div><!-- close shareTools -->            <button class="button search-button"><i class="icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>            <div class="user-tools-button-group button-group">
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                                                <button class="button notifications-button hidden"><i class="icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <button class="button close-button" type="button"><i class="icon"></i><span class="visually-hidden">Close search</span></button>
+    <div class="ad">
+        <small class="ad-sponsor">search sponsored by</small>
+        <div id="SponsorAd" class="sponsor-ad"></div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+<span class="story-short-url"><a href="http://nyti.ms/1B2jd36">http://nyti.ms/1B2jd36</a></span></header>
+            <nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+        <nav id="navigation" class="navigation" role="navigation">
+        <div class="sections">
+                    <div class="section">
+                <ul class="menu" role="menubar">
+                                                                    <li role="presentation">
+                            <a id="navId-A963B567-7D3D-4D0C-9E47-BF91609EFCE7"
+                               class="domestic"
+                               href="http://www.nytimes.com"                               role="menuitem">
+                                Home Page                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-F4E6EDF7-81C6-4DB2-8EB9-5A5E8A95CEC1"
+                               class="international"
+                               href="http://international.nytimes.com/?iht"                               role="menuitem">
+                                Home Page                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-9A43D8FC-F4CF-44D9-9B34-138D30468F8F"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/world/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                World                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/national/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                U.S.                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-80E6DEE6-87E4-4AD0-9152-14FA6B07E5AB"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/politics/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Politics                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-C4DC8C0C-E148-4201-BF10-82F1C903DBFB"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/nyregion/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                New York                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-104D1E63-9701-497B-8CF4-A4D120C9014E"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/business/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Business                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-A257D89A-0D3C-40AF-9C34-1A25A7947D94"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/business/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Business                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-AD8090D7-4137-4D71-84C8-70DA3BD89778"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/opinion/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Opinion                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-09736473-CB3F-4B2F-9772-3AF128ABE12D"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/opinion/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Opinion                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-78FBAD45-31A9-4EC7-B172-7D62A2B9955E"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/technology/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Technology                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-A4B35924-DB6C-4EA3-997D-450810F4FEE6"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/science/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Science                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-7D6BE1AF-8CD8-430B-8B2A-17CD0EAA99AC"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/health/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Health                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-DE2B278B-2783-4506-AAD5-C15A5BB6DA1A"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/sports/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Sports                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-BE66F420-C51B-461D-B487-CACF62E94AAE"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/sports/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Sports                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                            </ul>
+            </div><!-- close primary sections -->
+                    <div class="section">
+                <ul class="menu" role="menubar">
+                                                                    <li role="presentation">
+                            <a id="navId-C5BFA7D5-359C-427B-90E6-6B7245A6CDD8"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/arts/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Arts                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-0202D0E4-C59B-479A-BD42-6F1766459781"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/arts/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Arts                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-B3DFBD82-F298-43B3-9458-219B4F6AA2A5"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/fashion/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Fashion & Style                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-CC9E2674-F6C4-4A39-813B-F5AB0C515CEA"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/style/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Fashion & Style                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-D9C94A2B-0364-4D25-8383-592CC66F82D4"
+                               class="domestic expandable"
+                               href="http://www.nytimes.com/pages/dining/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Food                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-FDEFB811-B483-4C3D-A25A-FD07BE5EAD96"
+                               class="international expandable"
+                               href="http://www.nytimes.com/pages/dining/international/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Food                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-C0F299AE-E387-4216-9614-0087FC98DC40"
+                               class=""
+                               href="http://www.nytimes.com/pages/garden/index.html"                               role="menuitem">
+                                Home & Garden                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-FDA10AC4-4738-4099-91E8-15584765C8D7"
+                               class=""
+                               href="http://www.nytimes.com/pages/travel/index.html"                               role="menuitem">
+                                Travel                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-E57A148E-0CB9-4C02-966D-28B119710151"
+                               class=""
+                               href="http://www.nytimes.com/pages/magazine/index.html"                               role="menuitem">
+                                Magazine                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-92720057-BCB6-4BDB-9351-12F29393259F"
+                               class=" expandable"
+                               href="http://www.nytimes.com/pages/realestate/index.html"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Real Estate                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                            </ul>
+            </div><!-- close primary sections -->
+                    <div class="section">
+                <ul class="menu" role="menubar">
+                                                                    <li role="presentation">
+                            <a id="navId-432A1823-3F24-43C0-8004-79088F94E754"
+                               class=" expandable"
+                               href="http://www.nytimes.com/video/"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Video                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-D64FAE4C-4425-4E5A-B898-6C8CB59F9957"
+                               class=""
+                               href="http://www.nytimes.com/upshot/"                               role="menuitem">
+                                The Upshot                                                            </a>
+                        </li>
+                                                                                            <li role="presentation">
+                            <a id="navId-0442C365-4B63-4B63-B9DE-3C28319CB622"
+                               class=" expandable"
+                               tabindex="0"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Conferences                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                            </ul>
+            </div><!-- close primary sections -->
+                    <div class="section">
+                <ul class="menu" role="menubar">
+                                                                    <li role="presentation">
+                            <a id="navId-more-section"
+                               class=" expandable"
+                               tabindex="0"                               role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                More                                                                    <div class="arrow arrow-right"><div class="arrow-conceal"></div></div>
+                                                            </a>
+                        </li>
+                                                            </ul>
+            </div><!-- close primary sections -->
+            </div>
+    </nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden"></nav>
+
+<nav id="navigation-modal" class="navigation-modal hidden" role="modal">
+    <div class="secondary-container">
+        <div class="header">
+            <h5 class="section-heading"><a href="" role="menuitem"></a></h5>
+        </div>
+
+                    <div class="section" data-parent="navId-9A43D8FC-F4CF-44D9-9B34-138D30468F8F">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-350E94CC-926C-4D2A-9DB4-FD9ED99A66DC" class=""
+                                href="http://www.nytimes.com/pages/world/africa/index.html"                                role="menuitem">
+                                Africa                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-5A94A97E-037B-4C6B-A88D-741B06663078" class=""
+                                href="http://www.nytimes.com/pages/world/americas/index.html"                                role="menuitem">
+                                Americas                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-881A1D77-D6D7-4AC3-AAC2-4C279C20DD66" class=""
+                                href="http://www.nytimes.com/pages/world/asia/index.html"                                role="menuitem">
+                                Asia Pacific                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D38BAA6D-F26D-4B3E-BF25-CC798E6C5F55" class=""
+                                href="http://www.nytimes.com/pages/world/europe/index.html"                                role="menuitem">
+                                Europe                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-108390AA-728E-41EB-B9B5-14EDFBAE7D20" class=""
+                                href="http://www.nytimes.com/pages/world/middleeast/index.html"                                role="menuitem">
+                                Middle East                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-AE2B2F51-EBDD-4153-A71A-922F9635C5A4" class=""
+                                href="http://atwar.blogs.nytimes.com/"                                role="menuitem">
+                                At War                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-F6C0485C-12F5-42A4-B75D-7FD665A45115" class=""
+                                href="http://india.blogs.nytimes.com/"                                role="menuitem">
+                                India Ink                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-947EEB56-B266-44F4-A538-36200844547B" class=""
+                                href="http://sinosphere.blogs.nytimes.com/"                                role="menuitem">
+                                Sinosphere                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 9A43D8FC-F4CF-44D9-9B34-138D30468F8F sections -->
+                    <div class="section" data-parent="navId-23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-C7303E0D-6EB2-4FD3-B968-530EF9F38EB1" class=""
+                                href="http://www.nytimes.com/pages/education/index.html"                                role="menuitem">
+                                Education                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D64FAE4C-4425-4E5A-B898-6C8CB59F9957" class=""
+                                href="http://www.nytimes.com/upshot/"                                role="menuitem">
+                                The Upshot                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-F2E53C99-8886-484B-8574-A52E20EED764" class=""
+                                href="http://parenting.blogs.nytimes.com/"                                role="menuitem">
+                                Motherlode                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 23FD6C8B-62D5-4CEA-A331-6C2A9A1223BE sections -->
+                    <div class="section" data-parent="navId-80E6DEE6-87E4-4AD0-9152-14FA6B07E5AB">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-BB53FEFA-F91E-45B4-83D7-477579A87DF3" class=""
+                                href="http://www.nytimes.com/politics/first-draft/"                                role="menuitem">
+                                First Draft                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-78CE290F-672B-4BC7-BD4E-67DA85BCAC4E" class=""
+                                href="http://elections.nytimes.com/"                                role="menuitem">
+                                Elections                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D64FAE4C-4425-4E5A-B898-6C8CB59F9957" class=""
+                                href="http://www.nytimes.com/upshot/"                                role="menuitem">
+                                The Upshot                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 80E6DEE6-87E4-4AD0-9152-14FA6B07E5AB sections -->
+                    <div class="section" data-parent="navId-C4DC8C0C-E148-4201-BF10-82F1C903DBFB">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-3BF8323B-C0EC-4185-A5FE-DD128CF9345C" class=""
+                                href="http://cityroom.blogs.nytimes.com/"                                role="menuitem">
+                                City Room                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-989EC2C6-7461-4AA3-A67F-747676C1470D" class=""
+                                href="http://artsbeat.blogs.nytimes.com/"                                role="menuitem">
+                                ArtsBeat                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-2D1C1EB8-E0D9-40A9-8D59-3908DCF5C9BD" class=""
+                                href="http://www.nytimes.com/events/"                                role="menuitem">
+                                Events                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary C4DC8C0C-E148-4201-BF10-82F1C903DBFB sections -->
+                    <div class="section" data-parent="navId-104D1E63-9701-497B-8CF4-A4D120C9014E">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-71301FE1-FE94-4AF4-978B-39B2D2C59D31" class=""
+                                href="http://www.nytimes.com/pages/business/dealbook/index.html"                                role="menuitem">
+                                DealBook                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-2848A7AC-A33D-4352-B1FC-A465B81CD4F1" class=""
+                                href="http://www.nytimes.com/pages/business/economy/index.html"                                role="menuitem">
+                                Economy                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E1B05D9E-B6F8-46DB-89E5-06F2205C8085" class=""
+                                href="http://www.nytimes.com/pages/business/energy-environment/index.html"                                role="menuitem">
+                                Energy                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-4A7070FF-9307-4094-AE79-910158959A60" class=""
+                                href="http://markets.on.nytimes.com/"                                role="menuitem">
+                                Markets                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-C691FB48-A7E8-44FB-9AAA-13D91863D336" class=""
+                                href="http://www.nytimes.com/pages/business/media/index.html"                                role="menuitem">
+                                Media                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-AD2AE740-D1A5-4EDB-970D-F56370072B09" class=""
+                                href="http://www.nytimes.com/pages/business/smallbusiness/index.html"                                role="menuitem">
+                                Small Business                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-ED7B8594-44CE-4D37-A58B-1CDAA19774E4" class=""
+                                href="http://www.nytimes.com/pages/your-money/index.html"                                role="menuitem">
+                                Your Money                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-0A13AF9D-C7B5-4E8A-B9BC-15AB4B572C94" class=""
+                                href="http://www.nytimes.com/pages/automobiles/index.html"                                role="menuitem">
+                                Automobiles                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 104D1E63-9701-497B-8CF4-A4D120C9014E sections -->
+                    <div class="section" data-parent="navId-A257D89A-0D3C-40AF-9C34-1A25A7947D94">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-71301FE1-FE94-4AF4-978B-39B2D2C59D31" class=""
+                                href="http://www.nytimes.com/pages/business/dealbook/index.html"                                role="menuitem">
+                                DealBook                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-2848A7AC-A33D-4352-B1FC-A465B81CD4F1" class=""
+                                href="http://www.nytimes.com/pages/business/economy/index.html"                                role="menuitem">
+                                Economy                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E1B05D9E-B6F8-46DB-89E5-06F2205C8085" class=""
+                                href="http://www.nytimes.com/pages/business/energy-environment/index.html"                                role="menuitem">
+                                Energy                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-4A7070FF-9307-4094-AE79-910158959A60" class=""
+                                href="http://markets.on.nytimes.com/"                                role="menuitem">
+                                Markets                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-C691FB48-A7E8-44FB-9AAA-13D91863D336" class=""
+                                href="http://www.nytimes.com/pages/business/media/index.html"                                role="menuitem">
+                                Media                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-AD2AE740-D1A5-4EDB-970D-F56370072B09" class=""
+                                href="http://www.nytimes.com/pages/business/smallbusiness/index.html"                                role="menuitem">
+                                Small Business                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-ED7B8594-44CE-4D37-A58B-1CDAA19774E4" class=""
+                                href="http://www.nytimes.com/pages/your-money/index.html"                                role="menuitem">
+                                Your Money                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-0A13AF9D-C7B5-4E8A-B9BC-15AB4B572C94" class=""
+                                href="http://www.nytimes.com/pages/automobiles/index.html"                                role="menuitem">
+                                Automobiles                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary A257D89A-0D3C-40AF-9C34-1A25A7947D94 sections -->
+                    <div class="section" data-parent="navId-AD8090D7-4137-4D71-84C8-70DA3BD89778">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-9568A8E4-DD00-4A19-9357-55F8E84ADDB5" class="domestic expandable"
+                                href="http://www.nytimes.com/pages/opinion/index.html#columnists"                                role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Op-Ed Columnists                                                                    <div class="arrow arrow-right">
+                                        <div class="arrow-conceal"></div>
+                                    </div>
+                                    <div class="arrow arrow-left">
+                                        <div class="arrow-conceal"></div>
+                                    </div>
+                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6E604B7F-ACE7-4564-9203-0BD4CB02F419" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#editorials"                                role="menuitem">
+                                Editorials                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-A98552D7-2525-41F0-92E5-DFFA2F9619A9" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#contributing"                                role="menuitem">
+                                Contributing Writers                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-B3CE1F6E-B530-4C07-9B1C-98A1F9406C06" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#op-ed"                                role="menuitem">
+                                Op-Ed Contributors                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D6E51A50-AA05-4E81-987C-3E0AF5DABBB4" class=""
+                                href="http://www.nytimes.com/pages/opinion/index.html#opinionator"                                role="menuitem">
+                                Opinionator                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-7A239778-088E-4DD8-BEBF-649172041293" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#letters"                                role="menuitem">
+                                Letters                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-67D7F2A2-B495-4FFC-9478-1CE1965601D5" class=""
+                                href="http://www.nytimes.com/pages/opinion/index.html#sundayreview"                                role="menuitem">
+                                Sunday Review                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-136660BD-D661-4731-A1D7-03204BED7923" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#takingNote"                                role="menuitem">
+                                Taking Note                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-4FB3EADA-B7BB-4587-AAB0-9F3909DF4ED0" class="domestic"
+                                href="http://www.nytimes.com/pages/opinion/index.html#roomfordebate"                                role="menuitem">
+                                Room for Debate                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-8F7EBC39-9ED0-4603-8BCA-E9618B8A08A1" class=""
+                                href="http://publiceditor.blogs.nytimes.com/"                                role="menuitem">
+                                Public Editor                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-49AAA1C5-D2C6-432F-87B0-818391073FE1" class=""
+                                href="http://wordplay.blogs.nytimes.com/cartoons/"                                role="menuitem">
+                                Cartoons                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary AD8090D7-4137-4D71-84C8-70DA3BD89778 sections -->
+                    <div class="section" data-parent="navId-09736473-CB3F-4B2F-9772-3AF128ABE12D">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-2312753B-E860-46C4-B544-1C0F70ABF41F" class="international expandable"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#columnistsGlobal"                                role="menuitem" aria-haspopup="true" aria-expanded="false">
+                                Op-Ed Columnists                                                                    <div class="arrow arrow-right">
+                                        <div class="arrow-conceal"></div>
+                                    </div>
+                                    <div class="arrow arrow-left">
+                                        <div class="arrow-conceal"></div>
+                                    </div>
+                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-1F55AAA1-8287-4C9E-91B8-4402B7E3C855" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#editorialsGlobal"                                role="menuitem">
+                                Editorials                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6CD3A7AF-B060-4251-B2A6-E3A1B8B09982" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#contributing"                                role="menuitem">
+                                Contributing Writers                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-FD915915-123F-4EEE-A0D1-58B15C0C545F" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#op-edGlobal"                                role="menuitem">
+                                Op-Ed Contributors                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D6E51A50-AA05-4E81-987C-3E0AF5DABBB4" class=""
+                                href="http://www.nytimes.com/pages/opinion/index.html#opinionator"                                role="menuitem">
+                                Opinionator                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D4344F1A-7552-4908-84E8-E3120AE3F7B2" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#letters"                                role="menuitem">
+                                Letters                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-67D7F2A2-B495-4FFC-9478-1CE1965601D5" class=""
+                                href="http://www.nytimes.com/pages/opinion/index.html#sundayreview"                                role="menuitem">
+                                Sunday Review                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-C94AF19E-C233-4966-BF29-7F1103B46A62" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#takingNote"                                role="menuitem">
+                                Taking Note                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-C46DD884-B4C6-43FE-AAF0-658ED47F6FA5" class="international"
+                                href="http://www.nytimes.com/pages/opinion/international/index.html#roomfordebate"                                role="menuitem">
+                                Room for Debate                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-8F7EBC39-9ED0-4603-8BCA-E9618B8A08A1" class=""
+                                href="http://publiceditor.blogs.nytimes.com/"                                role="menuitem">
+                                Public Editor                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-49AAA1C5-D2C6-432F-87B0-818391073FE1" class=""
+                                href="http://wordplay.blogs.nytimes.com/cartoons/"                                role="menuitem">
+                                Cartoons                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 09736473-CB3F-4B2F-9772-3AF128ABE12D sections -->
+                    <div class="section" data-parent="navId-78FBAD45-31A9-4EC7-B172-7D62A2B9955E">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-157C94B4-918B-48FA-9E56-AA6347F2F44E" class=""
+                                href="http://bits.blogs.nytimes.com/"                                role="menuitem">
+                                Bits                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-65229E4E-DAD7-459F-AFD3-2AB6D0374FFD" class=""
+                                href="http://www.nytimes.com/pages/technology/personaltech/index.html"                                role="menuitem">
+                                Personal Tech                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 78FBAD45-31A9-4EC7-B172-7D62A2B9955E sections -->
+                    <div class="section" data-parent="navId-A4B35924-DB6C-4EA3-997D-450810F4FEE6">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-B831ACFB-B751-4F23-9B91-F1236878836C" class=""
+                                href="http://www.nytimes.com/pages/science/earth/index.html"                                role="menuitem">
+                                Environment                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E048A75C-4A9C-4241-B38C-74752BBC5AB8" class=""
+                                href="http://www.nytimes.com/pages/science/space/index.html"                                role="menuitem">
+                                Space & Cosmos                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary A4B35924-DB6C-4EA3-997D-450810F4FEE6 sections -->
+                    <div class="section" data-parent="navId-7D6BE1AF-8CD8-430B-8B2A-17CD0EAA99AC">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-5A98BF31-516F-48DE-8736-17BEEF1F64C6" class=""
+                                href="http://well.blogs.nytimes.com/"                                role="menuitem">
+                                Well                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-67641EB3-B6FF-44F2-B10F-2F6A5C2EC7D7" class=""
+                                href="http://www.nytimes.com/pages/health/policy/index.html"                                role="menuitem">
+                                Money & Policy                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-DA27E208-2682-4B17-8996-CD35A339521B" class=""
+                                href="http://www.nytimes.com/health/guides/index.html"                                role="menuitem">
+                                Health Guide                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 7D6BE1AF-8CD8-430B-8B2A-17CD0EAA99AC sections -->
+                    <div class="section" data-parent="navId-DE2B278B-2783-4506-AAD5-C15A5BB6DA1A">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-67CAE5A6-408D-44F3-827B-DD394E0467EF" class=""
+                                href="http://www.nytimes.com/pages/sports/baseball/index.html"                                role="menuitem">
+                                Baseball                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-BA1B9016-F2F7-454B-BDF7-D4C58F6D05E9" class=""
+                                href="http://www.nytimes.com/pages/sports/ncaabasketball/index.html"                                role="menuitem">
+                                Basketball: College                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-415FB1AB-3BED-4048-B61A-0E4096CE1DF6" class=""
+                                href="http://www.nytimes.com/pages/sports/basketball/index.html"                                role="menuitem">
+                                Basketball: N.B.A.                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-ABBA0609-90E2-46A3-9AC5-B208ACC6C97B" class=""
+                                href="http://www.nytimes.com/pages/sports/ncaafootball/index.html"                                role="menuitem">
+                                Football: College                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-F6B9D6C9-97AE-45DB-9686-72E44D8D3DAF" class=""
+                                href="http://www.nytimes.com/pages/sports/football/index.html"                                role="menuitem">
+                                Football: N.F.L.                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-9F98FEDB-E7B3-4907-A56E-35320CC4C878" class=""
+                                href="http://www.nytimes.com/pages/sports/golf/index.html"                                role="menuitem">
+                                Golf                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-BD14DADE-D513-4BD9-8AED-0CC63E58606C" class=""
+                                href="http://www.nytimes.com/pages/sports/hockey/index.html"                                role="menuitem">
+                                Hockey                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-14F230C0-EBDB-4A78-AF7B-2C90C4739625" class=""
+                                href="http://www.nytimes.com/pages/sports/soccer/index.html"                                role="menuitem">
+                                Soccer                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D4DE47DA-76DD-4528-B539-98A6DFEFEFB3" class=""
+                                href="http://www.nytimes.com/pages/sports/tennis/index.html"                                role="menuitem">
+                                Tennis                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary DE2B278B-2783-4506-AAD5-C15A5BB6DA1A sections -->
+                    <div class="section" data-parent="navId-BE66F420-C51B-461D-B487-CACF62E94AAE">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-67CAE5A6-408D-44F3-827B-DD394E0467EF" class=""
+                                href="http://www.nytimes.com/pages/sports/baseball/index.html"                                role="menuitem">
+                                Baseball                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-BA1B9016-F2F7-454B-BDF7-D4C58F6D05E9" class=""
+                                href="http://www.nytimes.com/pages/sports/ncaabasketball/index.html"                                role="menuitem">
+                                Basketball: College                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-415FB1AB-3BED-4048-B61A-0E4096CE1DF6" class=""
+                                href="http://www.nytimes.com/pages/sports/basketball/index.html"                                role="menuitem">
+                                Basketball: N.B.A.                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-ABBA0609-90E2-46A3-9AC5-B208ACC6C97B" class=""
+                                href="http://www.nytimes.com/pages/sports/ncaafootball/index.html"                                role="menuitem">
+                                Football: College                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-F6B9D6C9-97AE-45DB-9686-72E44D8D3DAF" class=""
+                                href="http://www.nytimes.com/pages/sports/football/index.html"                                role="menuitem">
+                                Football: N.F.L.                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-9F98FEDB-E7B3-4907-A56E-35320CC4C878" class=""
+                                href="http://www.nytimes.com/pages/sports/golf/index.html"                                role="menuitem">
+                                Golf                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-BD14DADE-D513-4BD9-8AED-0CC63E58606C" class=""
+                                href="http://www.nytimes.com/pages/sports/hockey/index.html"                                role="menuitem">
+                                Hockey                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-14F230C0-EBDB-4A78-AF7B-2C90C4739625" class=""
+                                href="http://www.nytimes.com/pages/sports/soccer/index.html"                                role="menuitem">
+                                Soccer                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D4DE47DA-76DD-4528-B539-98A6DFEFEFB3" class=""
+                                href="http://www.nytimes.com/pages/sports/tennis/index.html"                                role="menuitem">
+                                Tennis                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary BE66F420-C51B-461D-B487-CACF62E94AAE sections -->
+                    <div class="section" data-parent="navId-C5BFA7D5-359C-427B-90E6-6B7245A6CDD8">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-AB35105B-5032-41D9-86B1-06A221411B22" class=""
+                                href="http://www.nytimes.com/pages/arts/design/index.html"                                role="menuitem">
+                                Art & Design                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-8A0BFBDD-0B62-4E5F-B015-0FF76571E019" class=""
+                                href="http://artsbeat.blogs.nytimes.com/"                                role="menuitem">
+                                ArtsBeat                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-7B052F64-13C5-4631-ACE4-F1BAA9706061" class=""
+                                href="http://www.nytimes.com/pages/books/index.html"                                role="menuitem">
+                                Books                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-21A8F511-CA05-4797-AF76-17B61D3964CD" class=""
+                                href="http://www.nytimes.com/pages/arts/dance/index.html"                                role="menuitem">
+                                Dance                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-62BF6D00-C2D2-420E-9986-791EECA152C9" class=""
+                                href="http://www.nytimes.com/pages/movies/index.html"                                role="menuitem">
+                                Movies                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E0A8CBEB-DDB5-4ADF-B5A4-60CB484ED991" class=""
+                                href="http://www.nytimes.com/pages/arts/music/index.html"                                role="menuitem">
+                                Music                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-1B3D562C-A3F9-4083-9B6E-60C8A1F3FFB0" class=""
+                                href="http://www.nytimes.com/events/"                                role="menuitem">
+                                N.Y.C. Events Guide                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-EF6D2985-BB93-4771-8155-CC3E2B5A7C73" class=""
+                                href="http://www.nytimes.com/pages/arts/television/index.html"                                role="menuitem">
+                                Television                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-21D5B838-29CC-46D3-9006-879CAABC8F08" class=""
+                                href="http://www.nytimes.com/pages/theater/index.html"                                role="menuitem">
+                                Theater                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-42E23F3F-2192-4E1B-A6F1-F991D7BFF871" class=""
+                                href="http://www.nytimes.com/pages/arts/video-games/index.html"                                role="menuitem">
+                                Video Games                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary C5BFA7D5-359C-427B-90E6-6B7245A6CDD8 sections -->
+                    <div class="section" data-parent="navId-0202D0E4-C59B-479A-BD42-6F1766459781">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-AB35105B-5032-41D9-86B1-06A221411B22" class=""
+                                href="http://www.nytimes.com/pages/arts/design/index.html"                                role="menuitem">
+                                Art & Design                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-8A0BFBDD-0B62-4E5F-B015-0FF76571E019" class=""
+                                href="http://artsbeat.blogs.nytimes.com/"                                role="menuitem">
+                                ArtsBeat                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-7B052F64-13C5-4631-ACE4-F1BAA9706061" class=""
+                                href="http://www.nytimes.com/pages/books/index.html"                                role="menuitem">
+                                Books                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-21A8F511-CA05-4797-AF76-17B61D3964CD" class=""
+                                href="http://www.nytimes.com/pages/arts/dance/index.html"                                role="menuitem">
+                                Dance                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-62BF6D00-C2D2-420E-9986-791EECA152C9" class=""
+                                href="http://www.nytimes.com/pages/movies/index.html"                                role="menuitem">
+                                Movies                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E0A8CBEB-DDB5-4ADF-B5A4-60CB484ED991" class=""
+                                href="http://www.nytimes.com/pages/arts/music/index.html"                                role="menuitem">
+                                Music                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-1B3D562C-A3F9-4083-9B6E-60C8A1F3FFB0" class=""
+                                href="http://www.nytimes.com/events/"                                role="menuitem">
+                                N.Y.C. Events Guide                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-EF6D2985-BB93-4771-8155-CC3E2B5A7C73" class=""
+                                href="http://www.nytimes.com/pages/arts/television/index.html"                                role="menuitem">
+                                Television                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-21D5B838-29CC-46D3-9006-879CAABC8F08" class=""
+                                href="http://www.nytimes.com/pages/theater/index.html"                                role="menuitem">
+                                Theater                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-42E23F3F-2192-4E1B-A6F1-F991D7BFF871" class=""
+                                href="http://www.nytimes.com/pages/arts/video-games/index.html"                                role="menuitem">
+                                Video Games                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 0202D0E4-C59B-479A-BD42-6F1766459781 sections -->
+                    <div class="section" data-parent="navId-B3DFBD82-F298-43B3-9458-219B4F6AA2A5">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-052C33AD-1404-4DB6-AA70-0901DB1AD95B" class=""
+                                href="http://www.nytimes.com/pages/t-magazine/index.html"                                role="menuitem">
+                                T Magazine                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-38E82E5A-D1EE-4A54-BC61-9155577ABAED" class=""
+                                href="http://runway.blogs.nytimes.com/"                                role="menuitem">
+                                On the Runway                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D0F14EC9-05BC-4188-AE41-A4CD18FD19AD" class=""
+                                href="http://www.nytimes.com/pages/fashion/weddings/index.html"                                role="menuitem">
+                                Weddings                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary B3DFBD82-F298-43B3-9458-219B4F6AA2A5 sections -->
+                    <div class="section" data-parent="navId-CC9E2674-F6C4-4A39-813B-F5AB0C515CEA">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-052C33AD-1404-4DB6-AA70-0901DB1AD95B" class=""
+                                href="http://www.nytimes.com/pages/t-magazine/index.html"                                role="menuitem">
+                                T Magazine                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-38E82E5A-D1EE-4A54-BC61-9155577ABAED" class=""
+                                href="http://runway.blogs.nytimes.com/"                                role="menuitem">
+                                On the Runway                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D0F14EC9-05BC-4188-AE41-A4CD18FD19AD" class=""
+                                href="http://www.nytimes.com/pages/fashion/weddings/index.html"                                role="menuitem">
+                                Weddings                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary CC9E2674-F6C4-4A39-813B-F5AB0C515CEA sections -->
+                    <div class="section" data-parent="navId-D9C94A2B-0364-4D25-8383-592CC66F82D4">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-EC43C53C-07AC-42DF-8EA3-34F4EFCD6524" class=""
+                                href="http://cooking.nytimes.com"                                role="menuitem">
+                                Cooking                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-63AB32FE-1AA9-4C10-85CF-86088BC725B7" class=""
+                                href="http://www.nytimes.com/restaurants/search/"                                role="menuitem">
+                                Restaurant Search                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary D9C94A2B-0364-4D25-8383-592CC66F82D4 sections -->
+                    <div class="section" data-parent="navId-FDEFB811-B483-4C3D-A25A-FD07BE5EAD96">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-EC43C53C-07AC-42DF-8EA3-34F4EFCD6524" class=""
+                                href="http://cooking.nytimes.com"                                role="menuitem">
+                                Cooking                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-63AB32FE-1AA9-4C10-85CF-86088BC725B7" class=""
+                                href="http://www.nytimes.com/restaurants/search/"                                role="menuitem">
+                                Restaurant Search                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary FDEFB811-B483-4C3D-A25A-FD07BE5EAD96 sections -->
+                    <div class="section" data-parent="navId-92720057-BCB6-4BDB-9351-12F29393259F">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-00B951BD-2AE1-4E28-BAF7-18D1FAA6AA97" class=""
+                                href="http://www.nytimes.com/pages/realestate/commercial/index.html"                                role="menuitem">
+                                Commercial Real Estate                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6DC8A6FA-BCD6-4A01-AC94-FA9BB65AC0E9" class=""
+                                href="http://www.nytimes.com/pages/great-homes-and-destinations/index.html"                                role="menuitem">
+                                Great Homes & Destinations                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-E4FBD546-F591-4961-9A7B-1348506F24ED" class=""
+                                href="http://realestate.nytimes.com/my/saved_listings.aspx"                                role="menuitem">
+                                My Real Estate                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 92720057-BCB6-4BDB-9351-12F29393259F sections -->
+                    <div class="section" data-parent="navId-432A1823-3F24-43C0-8004-79088F94E754">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-FAF08756-1545-4233-B9D6-FEFA1115CFA6" class=""
+                                href="http://www.nytimes.com/video/us-politics"                                role="menuitem">
+                                U.S. & Politics                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-63D27866-95B7-47BC-9B53-E250CA21E182" class=""
+                                href="http://www.nytimes.com/video/world"                                role="menuitem">
+                                International                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-281517E5-9CC5-472C-B46A-B9CF9AAE72F2" class=""
+                                href="http://www.nytimes.com/video/n-y-region"                                role="menuitem">
+                                New York                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6AB2572C-5341-4979-8D74-E38528FE0159" class=""
+                                href="http://www.nytimes.com/video/opinion"                                role="menuitem">
+                                Opinion                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-50BEEE33-737A-4EBE-98D7-65593C23AE6C" class=""
+                                href="http://www.nytimes.com/video/times-documentaries"                                role="menuitem">
+                                Times Documentaries                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-18CC8E0D-C9B6-4A81-8EB6-9AC98B296DDB" class=""
+                                href="http://www.nytimes.com/video/business"                                role="menuitem">
+                                Business                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-457A829A-6C9D-47A9-B91E-2212766B6648" class=""
+                                href="http://www.nytimes.com/video/technology"                                role="menuitem">
+                                Technology                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-4CF1B9A6-4476-45CF-AF12-53B7EB39847F" class=""
+                                href="http://www.nytimes.com/video/arts"                                role="menuitem">
+                                Culture                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-3BAEEBB7-10C5-43F9-A728-26DCE4D44B48" class=""
+                                href="http://www.nytimes.com/video/style"                                role="menuitem">
+                                Style                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6872F49C-F4A1-458D-8410-B253D44B8E9C" class=""
+                                href="http://www.nytimes.com/video/health"                                role="menuitem">
+                                Health                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-A3E833FD-09AE-4B1B-B4A7-AED0CF1CC74C" class=""
+                                href="http://www.nytimes.com/video/dining-and-wine"                                role="menuitem">
+                                Food                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-380D52A1-A468-4069-BCA9-52D6E2625D63" class=""
+                                href="http://www.nytimes.com/video/travel"                                role="menuitem">
+                                Travel                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-DAB634A7-D513-49CA-BBEF-9FB321BF6798" class=""
+                                href="http://www.nytimes.com/video/sports"                                role="menuitem">
+                                Sports                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-64C01CC7-C6F7-4E1B-A4FD-69B6D5B647FE" class=""
+                                href="http://www.nytimes.com/video/real-estate"                                role="menuitem">
+                                Real Estate                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6F4D6D03-8D74-4A7C-939D-2ADEE18731CB" class=""
+                                href="http://www.nytimes.com/video/science"                                role="menuitem">
+                                Science                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 432A1823-3F24-43C0-8004-79088F94E754 sections -->
+                    <div class="section" data-parent="navId-0442C365-4B63-4B63-B9DE-3C28319CB622">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-EC1380B0-3124-4A9B-82CF-9EA22D988C8F" class=""
+                                href="http://nytlive.nytimes.com/womenintheworld"                                role="menuitem">
+                                Women in the World                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-01D05C9D-737F-4FD8-9B0E-714E22CE4E30" class=""
+                                href="http://www.nytcitiesfortomorrow.com"                                role="menuitem">
+                                Cities for Tomorrow                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary 0442C365-4B63-4B63-B9DE-3C28319CB622 sections -->
+        
+                    <div class="section section-more" data-parent="navId-more-section">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-5C13EEDD-D905-4D8C-A284-6859EA434563" class=""
+                                href="http://www.nytimes.com/crosswords/"                                role="menuitem">
+                                Crossword                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-99C17804-A343-4A76-BF04-F5793ADA48D1" class=""
+                                href="http://www.nytimes.com/times-insider"                                role="menuitem">
+                                Times Premier                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-0DAA7CFE-196B-4878-B899-5363070098EC" class=""
+                                href="http://www.nytimes.com/pages/todayspaper/index.html"                                role="menuitem">
+                                Today's Paper                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary more-sections -->
+                    <div class="section section-more" data-parent="navId-more-section">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-CEDDB6A8-F7E1-47A2-AC53-E28C616DFCD5" class=""
+                                href="http://www.nytimes.com/pages/obituaries/index.html"                                role="menuitem">
+                                Obituaries                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6DD9D623-A907-4623-9C5A-9409972B76DA" class=""
+                                href="http://www.nytimes.com/pages/corrections/index.html"                                role="menuitem">
+                                Corrections                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-8FB1308A-FFE4-4BED-ADF6-659A680D0884" class=""
+                                href="http://www.nytimes.com/pages/multimedia/index.html"                                role="menuitem">
+                                Multimedia                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-108F7745-BAD9-4630-87BB-4FB4ED7CAA11" class=""
+                                href="http://lens.blogs.nytimes.com/"                                role="menuitem">
+                                Photography                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary more-sections -->
+                    <div class="section section-more" data-parent="navId-more-section">
+                <ul class="secondary" role="menu">
+                                            <li role="presentation">
+                            <a id="navId-D4C7C57A-E74D-44C3-9D0E-0AE6B715610F" class=""
+                                href="http://www.nytimes.com/ref/classifieds/"                                role="menuitem">
+                                Classifieds                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6BBF5308-5EA3-4B25-885F-393F7372F27F" class=""
+                                href="http://www.nytimes.com/marketing/tools-and-services/"                                role="menuitem">
+                                Tools & Services                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-288E1691-DA3B-457A-8B06-D10A1351E7B9" class=""
+                                href="http://jobmarket.nytimes.com/pages/jobs/index.html"                                role="menuitem">
+                                Jobs                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-D3E5F163-D939-4FD5-8FB6-C6AD31748E30" class=""
+                                href="http://www.nytimes.com/pages/topics/"                                role="menuitem">
+                                Times Topics                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-1FBDDF2B-64F5-4DB3-8093-F0CCB7808799" class=""
+                                href="http://www.nytimes.com/interactive/blogs/directory.html"                                role="menuitem">
+                                Blogs                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-6101A43A-8BDE-45FF-AAD5-EF7396F83AC9" class=""
+                                href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage"                                role="menuitem">
+                                NYT Store                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-797F8D17-1632-435D-B3DB-708FC4B4BAEF" class=""
+                                href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=Times%20Journeys&contentPlacement=2&pgtype=Homepage"                                role="menuitem">
+                                Times Journeys                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-FED853D9-D192-46F6-8D18-447803EB4A7B" class=""
+                                href="http://www.nytimes.com/seeallnav"                                role="menuitem">
+                                Subscribe                                                            </a>
+                        </li>
+                                            <li role="presentation">
+                            <a id="navId-61E9BFEA-F509-4BCA-ADC6-32C5A30B83FD" class=""
+                                href="http://www.nytimes.com/membercenter"                                role="menuitem">
+                                Manage Account                                                            </a>
+                        </li>
+                                    </ul>
+            </div><!-- close secondary more-sections -->
+            </div><!-- close secondary modal -->
+
+    <div class="tertiary-container">
+        <div class="header">
+            <h5 class="section-heading"><a href="" role="menuitem"></a></h5>
+        </div>
+                    <ul class="tertiary" data-parent="navId-9568A8E4-DD00-4A19-9357-55F8E84ADDB5" role="menu">
+                                    <li role="presentation">
+                        <a id="navId-B70131F0-6B2A-4A93-8705-0B9F7E9B800F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/charlesMBlow"                            role="menuitem">
+                            Charles M. Blow                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-A2B32B86-C320-49D8-85D3-4AC6BCA2F2C2" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/davidBrooks"                            role="menuitem">
+                            David Brooks                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-1A8CCD43-E5E3-4801-8CBA-0378A0E17530" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/frankBruni"                            role="menuitem">
+                            Frank Bruni                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-A60B44E8-59B1-4687-B20F-D5C71A021C38" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/rogerCohen"                            role="menuitem">
+                            Roger Cohen                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-AED55B1F-22EC-45F2-88B6-3B7F340C1949" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/gailCollins"                            role="menuitem">
+                            Gail Collins                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-6EC4E971-BBD1-4ED5-B61D-E27A3314AE61" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/rossDouthat"                            role="menuitem">
+                            Ross Douthat                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-706C9233-C545-4A9E-AB0B-2B6A21C6AF9F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/maureenDowd"                            role="menuitem">
+                            Maureen Dowd                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-3D56EF48-CA97-4209-A878-6430FB9A2C5E" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/thomasLFriedman"                            role="menuitem">
+                            Thomas L. Friedman                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-D6A41F41-19BB-48C6-B121-B89359F1048F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/nicholasDKristof"                            role="menuitem">
+                            Nicholas Kristof                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-85905471-3FA0-423F-9D26-1BBE69237899" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/paulKrugman"                            role="menuitem">
+                            Paul Krugman                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-B1CD03FF-773D-46AB-B3C1-4FAE8565F551" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/joeNocera"                            role="menuitem">
+                            Joe Nocera                                                    </a>
+                    </li>
+                            </ul>
+                     <ul class="tertiary" data-parent="navId-2312753B-E860-46C4-B544-1C0F70ABF41F" role="menu">
+                                    <li role="presentation">
+                        <a id="navId-B70131F0-6B2A-4A93-8705-0B9F7E9B800F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/charlesMBlow"                            role="menuitem">
+                            Charles M. Blow                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-A2B32B86-C320-49D8-85D3-4AC6BCA2F2C2" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/davidBrooks"                            role="menuitem">
+                            David Brooks                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-1A8CCD43-E5E3-4801-8CBA-0378A0E17530" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/frankBruni"                            role="menuitem">
+                            Frank Bruni                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-A60B44E8-59B1-4687-B20F-D5C71A021C38" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/rogerCohen"                            role="menuitem">
+                            Roger Cohen                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-AED55B1F-22EC-45F2-88B6-3B7F340C1949" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/gailCollins"                            role="menuitem">
+                            Gail Collins                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-6EC4E971-BBD1-4ED5-B61D-E27A3314AE61" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/rossDouthat"                            role="menuitem">
+                            Ross Douthat                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-706C9233-C545-4A9E-AB0B-2B6A21C6AF9F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/maureenDowd"                            role="menuitem">
+                            Maureen Dowd                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-3D56EF48-CA97-4209-A878-6430FB9A2C5E" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/thomasLFriedman"                            role="menuitem">
+                            Thomas L. Friedman                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-D6A41F41-19BB-48C6-B121-B89359F1048F" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/nicholasDKristof"                            role="menuitem">
+                            Nicholas Kristof                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-85905471-3FA0-423F-9D26-1BBE69237899" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/paulKrugman"                            role="menuitem">
+                            Paul Krugman                                                    </a>
+                    </li>
+                                    <li role="presentation">
+                        <a id="navId-B1CD03FF-773D-46AB-B3C1-4FAE8565F551" class=""
+                            href="http://www.nytimes.com/pages/opinion/index.html#columnists/joeNocera"                            role="menuitem">
+                            Joe Nocera                                                    </a>
+                    </li>
+                            </ul>
+             </div> <!-- close tertiary modal -->
+</nav>
+    <div id="navigation-edge" class="navigation-edge"></div>
+
+    <div id="page" class="page">
+        <main id="main" class="main" role="main">
+        <div id="TopAd" class="ad top-ad nocontent robots-nocontent"></div>
+
+<article id="story" class="story theme-main">
+
+        <div class="dealbook-branding">
+    <h2 class="dealbook-branding-heading">
+        <a href="http://www.nytimes.com/pages/business/dealbook/index.html">
+            <img class="dealbook-logo" src="http://a1.nyt.com/assets/article/20150320-155522/images/article/dealbook-logo-320x42.png" alt="Dealbook" />
+        </a>
+    </h2>
+</div> <!-- close dealbook-branding -->
+    <header id="story-header" class="story-header">
+        
+                <div id="story-meta" class="story-meta ">
+                                                                    <h3 class="kicker">
+                                                                                                            </h3>
+                        	<h1 itemprop="headline" id="story-heading" class="story-heading">BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger</h1>
+                        <div id="story-meta-footer" class="story-meta-footer">
+                                
+
+<p class="byline-dateline"><span class="byline" itemprop="author creator" itemscope itemtype="http://schema.org/Person"  itemid="http://topics.nytimes.com/top/reference/timestopics/people/t/landon_jr_thomas/index.html">By <a href="http://topics.nytimes.com/top/reference/timestopics/people/t/landon_jr_thomas/index.html" rel="author" title="More Articles by LANDON THOMAS Jr."><span class="byline-author" data-byline-name="LANDON THOMAS Jr." itemprop="name">LANDON THOMAS Jr.</span></a></span><time class="dateline" datetime="2015-03-18">MARCH 18, 2015</time>
+</p>                                    <div class="inside-story">
+                        <span class="menu-label">Inside</span>
+                        <ul class="inside-story-menu"></ul>
+                    </div>
+                
+            </div><!-- close story-meta-footer -->
+        </div><!-- close story-meta -->
+    </header>
+
+    <div id="story-body" class="story-body">
+
+        
+        
+        <div class="lede-container">
+            <figure id="media-100000003580590" class="media photo lede layout-large-horizontal" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-master675.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-master675.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-superJumbo.jpg" data-mediaviewer-caption="Scott Radell manages more than 80 exchange-traded bond funds, including the new INC fund, for BlackRock." data-mediaviewer-credit="Jim Wilson/The New York Times"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-master675.jpg"/>
+            <meta itemprop="height" content="450" />
+            <meta itemprop="width" content="675" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">Scott Radell manages more than 80 exchange-traded bond funds, including the new INC fund, for BlackRock.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Jim Wilson/The New York Times        </span>
+            </figcaption>
+    </figure>
+            <div class="lede-container-ads">
+                                                            <div id="XXL" class="ad xxl-ad marginalia-anchor-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                        <div id="MiddleRight" class="ad middle-right-ad marginalia-anchor-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+                                                                                </div>
+        </div>
+
+
+
+                    <div id="byline-sharetools-container" class="byline-sharetools-container">
+                                                    <div id="sharetools-story" aria-label="tools" role="group" class="sharetools theme-classic  sharetools-story  "
+data-shares="email,facebook|Share,twitter|Tweet,save,show-all|more,ad"
+data-url="http://www.nytimes.com/2015/03/19/business/dealbook/blackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html"
+data-title="BlackRock’s New Breed of Exchange-Traded Bond Fund Prizes Stability Over Swagger"
+data-media="http://static01.nyt.com/images/2015/03/19/business/19DBFUNDS/19DBFUNDS-jumbo.jpg"
+data-description="BlackRock is introducing a new type of bond exchange-traded funds that aims to blend the best of active investing (security selection) with index investing (cost and consistency)."
+	data-publish-date="March 18, 2015"
+>
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+<span class="sharetools-label visually-hidden">Share This Page</span>
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+<div id="MiddleLeft" class="ad middle-left-ad hidden nocontent robots-nocontent">
+<a class="visually-hidden skip-to-text-link" href="#story-continues-1">Continue reading the main story</a>
+</div>
+</div><!-- close shareTools -->                            </div>
+                    
+
+                
+        <p class="story-body-text story-content" data-para-count="101" data-total-count="101" itemprop="articleBody" id="story-continues-1">SAN FRANCISCO —  You will not see Scott Radell on CNBC. Nor does he inhabit a jaw-dropping mansion.</p><p class="story-body-text story-content" data-para-count="242" data-total-count="343" itemprop="articleBody">While he may not live the life of a swaggering bond market pro, Mr. Radell, a bond manager at the fund giant <a href="http://topics.nytimes.com/top/news/business/companies/blackrock-inc/index.html?inline=nyt-org" title="More information about BlackRock Inc" class="meta-org">BlackRock</a>, is challenging a strategy that has rewarded some of his flashier peers: the pursuit of high-risk, high-return investments.</p><p class="story-body-text story-content" data-para-count="205" data-total-count="548" itemprop="articleBody">The weapon that Mr. Radell will be using is a new variety of <a href="http://topics.nytimes.com/your-money/investments/mutual-funds-and-etfs/index.html?inline=nyt-classifier" title="More articles about mutual funds and exchange-traded funds." class="meta-classifier">exchange-traded fund</a>, or E.T.F., which tracks an index of stocks or bonds but trades like a common stock, allowing investors to jump in and out.</p><p class="story-body-text story-content" data-para-count="237" data-total-count="785" itemprop="articleBody">For years now, these funds have been a hit with passive investors. Now, BlackRock is introducing a new breed of bond E.T.F. that aims to blend the best of active investing (security selection) with index investing (cost and consistency).</p><p class="story-body-text story-content" data-para-count="420" data-total-count="1205" itemprop="articleBody" id="story-continues-2">“We don’t have any ‘key man’ risk — no one is trying to shoot the lights out here,” Mr. Radell said, referring to the muscular investment style that has turned the likes of William H. Gross, the Pimco co-founder who is now at the Janus Capital Group, and the equally outspoken Jeffrey Gundlach of DoubleLine Capital, into bond market celebrities. “We are just trying to build a nice portfolio over time.”</p><figure id="media-100000003580591" class="media photo embedded has-adjacency has-lede-adjacency layout-small-vertical media-100000003580591" data-media-action="modal" itemprop="associatedMedia" itemscope itemid="http://static01.nyt.com/images/2015/03/19/business/19JPDBFUNDS2/19JPDBFUNDS2-master180.jpg" itemtype="http://schema.org/ImageObject" aria-label="media" role="group">
+    <span class="visually-hidden">Photo</span>
+    <div class="image">
+            <img src="http://static01.nyt.com/images/2015/03/19/business/19JPDBFUNDS2/19JPDBFUNDS2-master180.jpg" alt="" class="media-viewer-candidate" data-mediaviewer-src="http://static01.nyt.com/images/2015/03/19/business/19JPDBFUNDS2/19JPDBFUNDS2-superJumbo.jpg" data-mediaviewer-caption="Mark Wiedman oversees iShares, BlackRock&amp;rsquo;s profitable E.T.F. division." data-mediaviewer-credit="Jim Wilson/The New York Times"  itemprop="url" itemid="http://static01.nyt.com/images/2015/03/19/business/19JPDBFUNDS2/19JPDBFUNDS2-master180.jpg"/>
+            <meta itemprop="height" content="192" />
+            <meta itemprop="width" content="180" />
+    </div>
+        <figcaption class="caption" itemprop="caption description">
+                <span class="caption-text">Mark Wiedman oversees iShares, BlackRock&rsquo;s profitable E.T.F. division.</span>
+                        <span class="credit" itemprop="copyrightHolder">
+            <span class="visually-hidden">Credit</span>
+            Jim Wilson/The New York Times        </span>
+            </figcaption>
+    </figure>
+<p class="story-body-text story-content" data-para-count="369" data-total-count="1574" itemprop="articleBody">The history of Wall Street is littered with fads and inventions that have aimed to strike a balance between making money for the product innovator and for the investor. Of late, though, few if any of these confections have been as successful as E.T.F.s, which hardly existed 15 years ago and now, at $2 trillion, make up close to 15 percent of the mutual fund industry.</p><p class="story-body-text story-content" data-para-count="359" data-total-count="1933" itemprop="articleBody">Be it a cautious retiree buying <a href="http://topics.nytimes.com/top/reference/timestopics/organizations/t/treasury_department/treasury_securities/index.html?inline=nyt-classifier" title="More articles about treasury securities." class="meta-classifier">Treasury securities</a> or a hedge fund looking to scoop up hard-to-trade high-yield bonds, investors have flocked to E.T.F.s. As a consequence, the iShares division has become a crucial profit driver for BlackRock, the world’s largest fund company, accounting for close to a quarter of its $4.6 trillion assets under management.</p><p class="story-body-text story-content" data-para-count="252" data-total-count="2185" itemprop="articleBody">The rush into E.T.F.s has come at a time when the performance records of mutual fund portfolio managers, especially on the equity side, have been poor. According to Morningstar, 74 percent of equity mutual funds trailed their benchmark index last year.</p><div id="Moses" class="ad moses-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-3">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="525" data-total-count="2710" itemprop="articleBody" id="story-continues-3">For that reason, the bulk of E.T.F. flows have been into large funds that track stock indexes like the Standard & Poor’s 500, the Russell 2000 and other major benchmarks around the globe. And while bond E.T.F.s have also grown in size in recent years (BlackRock’s main <a title="More information about the offering." href="http://www.etf.com/AGG">bond offering</a> is now $23 billion), the numbers have been smaller because there are many who still embrace the view of the wise bond seer who can beat the market on a regular basis by loading up on securitized mortgages and exotic emerging-market bonds.</p><p class="story-body-text story-content" data-para-count="329" data-total-count="3039" itemprop="articleBody">“Investors have realized that picking stocks just does not work, but there has always been this belief that some form of active bond management is required,” said <a title="Mr. Nadig’s bio." href="http://www.etf.com/about-us.html">Dave Nadig</a>, an industry expert at <a target="_" href="http://ETF.com">ETF.com</a>. “What BlackRock is now trying to do is thread the needle between the Bill Gross model and the standard index fund.”</p><div class="ad ad-placeholder nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-4">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="382" data-total-count="3421" itemprop="articleBody" id="story-continues-4">Recently, the fastest-growing area of the E.T.F. market has been so-called smart beta funds, which track specialized and predominantly equity indexes that are not composed of the highest-valued securities, like the S.&P. 500. For example, a fund that follows an index made up of United States stocks with a history of paying dividends might be attractive to a yield-hungry investor.</p><p class="story-body-text story-content" data-para-count="263" data-total-count="3684" itemprop="articleBody">Similarly, on the bond side, Mr. Radell’s <a title="More information about the fund." href="http://www.ETF.com/INC">new fund</a>, called United States Fixed Income Balanced Risk, will invest in an equal split of corporate bonds, which will benefit if rates spike upward, and Treasury securities, which will protect the fund if rates fall.</p><p class="story-body-text story-content" data-para-count="187" data-total-count="3871" itemprop="articleBody">Because these funds target a specific area of demand in the market but follow an index, they are seen by their champions as joining the best aspects of active and passive fund management.</p><p class="story-body-text story-content" data-para-count="128" data-total-count="3999" itemprop="articleBody">Yet because the cult of the bond manager still holds sway, there have been few if any quasi-active bond funds that have thrived.</p><p class="story-body-text story-content" data-para-count="269" data-total-count="4268" itemprop="articleBody">“There is nothing out there that approximates what we are trying to do,” said <a title="Mr. Wiedman’s bio." href="http://www.blackrock.com/corporate/en-ca/about-us/leadership/mark-wiedman">Mark Wiedman</a>, the BlackRock executive who oversees iShares. He admitted, though, that there was no guarantee that bond investors would flock to such a fund as equity investors have done.</p><p class="story-body-text story-content" data-para-count="96" data-total-count="4364" itemprop="articleBody">“There is a void in the market,” he said. “But sometimes there are voids for a reason.”</p><p class="story-body-text story-content" data-para-count="218" data-total-count="4582" itemprop="articleBody">BlackRock faces pressure to keep up with a fast-innovating marketplace not just because it is the industry leader. With its $787 billion in E.T.F.s in the United States, it is far ahead of Vanguard, with $462 billion.</p><p class="story-body-text story-content" data-para-count="261" data-total-count="4843" itemprop="articleBody">It is also because iShares, BlackRock’s San Francisco-based E.T.F. unit, was formerly Barclays Global Investors, which first popularized these types of funds in the late 1990s. BlackRock bought the company for $13 billion from a retrenching Barclays in 2009.</p><p class="story-body-text story-content" data-para-count="151" data-total-count="4994" itemprop="articleBody" id="story-continues-5">About a third of BlackRock’s revenue now comes from iShares, and analysts expect that the firm will someday earn a majority of its fees from E.T.F.s.</p><p class="story-body-text story-content" data-para-count="248" data-total-count="5242" itemprop="articleBody">For a company that has evolved as a bond manager focused on institutions under its current chief executive, Laurence D. Fink, this tilt toward a market segment that is very much driven by retail investors represents a significant shift in strategy.</p><p class="story-body-text story-content" data-para-count="257" data-total-count="5499" itemprop="articleBody">That is why the early predictions of a successor to Mr. Fink, who has no plans to step down anytime soon, favor Mr. Wiedman, an ambitious 44-year-old executive and onetime top official at the United States Treasury, who has overseen the business since 2011.</p><p class="story-body-text story-content" data-para-count="292" data-total-count="5791" itemprop="articleBody">With such growth has come criticism. In particular, there have been two academic studies — and a lawsuit (which was later dismissed) — that claim E.T.F. providers like BlackRock have taken advantage of investors by retaining too large a share of some of the side benefits of the business.</p><p class="story-body-text story-content" data-para-count="349" data-total-count="6140" itemprop="articleBody" id="story-continues-6">For example, BlackRock made $477 million in revenue last year by lending the stocks and bonds in its various funds to banks, which passed them on to hedge funds that needed to borrow the securities to bet against them through short sales. Most of the fees were returned to the E.T.F.s, and BlackRock said that the money it kept allowed for low fees.</p><div class="ad ad-placeholder nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-7">Continue reading the main story</a>
+</div>
+    	<div id="MiddleRightN" class="ad text-ad middle-right-ad nocontent robots-nocontent"><a class="visually-hidden skip-to-text-link" href="#story-continues-7">Continue reading the main story</a>
+</div><p class="story-body-text story-content" data-para-count="35" data-total-count="6175" itemprop="articleBody" id="story-continues-7">Still, some experts have questions.</p><p class="story-body-text story-content" data-para-count="335" data-total-count="6510" itemprop="articleBody">“I am just not convinced that the E.T.F. is a great tool for mom-and-pop investors,” said <a title="Professor Blocher’s bio." href="http://www.owen.vanderbilt.edu/faculty-and-research/faculty-directory/faculty-profile.cfm?id=256">Jesse A. Blocher</a>, a finance professor at Vanderbilt University and the author of <a title="The paper." href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474904">a paper that examines the economics of securities lending</a>. “They are so heavily used now by short-term players that you worry that something will go askew.”</p><p class="story-body-text story-content" data-para-count="391" data-total-count="6901" itemprop="articleBody">Last month, the Institute of International Finance, a trade group for global banks, warned of the extraordinary flows into corporate bond E.T.F.s, pointing out that many of the investors were sophisticated institutions reaching for yield. Given how illiquid the market has become for these types of bonds, any sustained selling frenzy could have wider consequences, the institute cautioned.</p><p class="story-body-text story-content" data-para-count="264" data-total-count="7165" itemprop="articleBody">All told, Mr. Radell oversees 81 bond E.T.F.s for BlackRock, representing $153 billion in assets. When he sits down in front of his bank of trading screens at 5:15 a.m., just before the market gets going in New York, one of the first things he checks is liquidity.</p><p class="story-body-text story-content" data-para-count="236" data-total-count="7401" itemprop="articleBody">He looks at how the E.T.F.s are trading, and if there are more buyers (or sellers) of a certain E.T.F., he keeps a close eye on how the underlying market for, say, high-yield or investment-grade bonds is handling the increased activity.</p><p class="story-body-text story-content" data-para-count="279" data-total-count="7680" itemprop="articleBody">These days, however, his eyes are drawn to his new bond fund, which everyone on the company’s sun-bright trading floor refers to by its symbol, INC. The bigger bond E.T.F.s under Mr. Radell’s watch may rake in the fees, but it is INC, he believes, that represents the future.</p><p class="story-body-text story-content" data-para-count="37" data-total-count="7717" itemprop="articleBody">His voice catches as he explains why.</p><p class="story-body-text story-content" data-para-count="221" data-total-count="7938" itemprop="articleBody">“This is what makes me so excited,” he said, pointing to a screen that showed INC doing almost as well as the E.T.F.s of BlackRock’s main competitors, Pimco and DoubleLine, and ahead of most diversified bond funds.</p><p class="story-body-text story-content" data-para-count="163" data-total-count="8101" itemprop="articleBody">The returns are similar, he said, but because INC follows a clear set of rules, there is less risk that a manager will make a bad call that sends the fund reeling.</p><p class="story-body-text story-content" data-para-count="160" data-total-count="8261" itemprop="articleBody">Investors have been slow to share in Mr. Radell’s enthusiasm so far, and the E.T.F., which started trading late last month at $75 million, has barely budged.</p><p class="story-body-text story-content" data-para-count="124" data-total-count="8385" itemprop="articleBody">“It’s been slow,” Mr. Radell acknowledged. “But I really think we have created something that will last for ages.”</p>
+        
+                                <footer class="story-footer story-content">
+    <div class="story-meta">
+                                <p class="story-print-citation">A version of this article appears in print on March 19, 2015, on page B1 of the <span itemprop="printEdition">New York edition</span> with the headline: A New Breed of Bond Fund Prizes Stability Over Swagger. <span class="story-footer-links">  <span><a href="https://s100.copyright.com/AppDispatchServlet?contentID=http%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F19%2Fbusiness%2Fdealbook%2Fblackrocks-new-breed-of-exchange-traded-bond-fund-prizes-stability-over-swagger.html&publisherName=The+New+York+Times&publication=nytimes.com&token=&orderBeanReset=true&postType=&wordCount=1410&title=BlackRock%E2%80%99s+New+Breed+of+Exchange-Traded+Bond+Fund+Prizes+Stability+Over+Swagger&publicationDate=March+18%2C+2015&author=By Landon Thomas Jr." target="_blank">Order Reprints</a><span class="pipe">|</span></span>  <span><a href="http://www.nytimes.com/pages/todayspaper/index.html" target="_blank">Today's Paper</a><span class="pipe">|</span></span><span><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp839RF.html?campaignId=48JQY" target="_blank">Subscribe</a></span>
+</span>
+</p>
+    </div><!-- close story-meta -->
+    </footer>
+
+        
+                                <nav id="next-in"></nav><!-- close next-in -->
+                        </div><!-- close story-body -->
+</article>
+<aside class="marginalia most-emailed-marginalia hidden nocontent robots-nocontent" data-truncate-enabled="true"></aside>    <section id="whats-next" class="whats-next nocontent robots-nocontent">
+        <div class="nocontent robots-nocontent">
+            <div class="loader-container">
+                <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+            </div>
+        </div><!-- close nocontent -->
+    </section>
+<div id="TopAd1" class="text-ad bottom-left-ad nocontent robots-nocontent"></div><div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+                    <div class="search-overlay"></div>
+            </main><!-- close main -->
+            <section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a href="http://www.nytimes.com/">
+                <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/article/20150320-155522/images/foundation/logos/', '', '', 'standard');</script>
+         </a>
+        </h2>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/nyregion/index.html">New York</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#roomfordebate">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://publiceditor.blogs.nytimes.com/">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/opinion/">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/arts/">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/garden/index.html">Home & Garden</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://publiceditor.blogs.nytimes.com/">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Premier</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon"></i>
+        <a href="http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="http://subscribe.inyt.com">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+
+            <footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="http://www.nytimes.com/content/help/rights/copyright/copyright-notice.html" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name"> The New York Times Company</span><meta itemprop="tickerSymbol" content="NYSE NYT"/></span>
+                </a>
+            </li>
+            <li class="visually-hidden"><a href="http://www.nytimes.com">Home</a></li>
+            <li class="visually-hidden"><a href="http://query.nytimes.com/search/sitesearch/#/">Search</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li class="wide-viewport-item"><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="wide-viewport-item last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>        </div><!-- close page -->
+    </div><!-- close shell -->
+    <script>
+require(['foundation/main'], function () {
+    require(['article/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        $(document).ready(function () {
+            require(['http://static01.nyt.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+    <div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"4491457","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRhCXUA=","queueTime":0,"applicationTime":271,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>
