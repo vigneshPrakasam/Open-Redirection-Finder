@@ -7,12 +7,21 @@ from scrapy.http import FormRequest
 from scrapy import log
 from scrapy.exceptions import DropItem
 from bs4 import BeautifulSoup
+import os
+import urllib
 
 class ExampleSpider(CrawlSpider):
     name = 'app2'
     start_urls = ['https://app2.com/login/index.php']
 
     def parse(self, response):
+        try:
+            os.remove("newpostLinks.txt")
+            os.remove("newgetLinks.txt")
+            #generalize
+            os.remove("app2Check.txt")
+        except OSError:
+            pass
         return FormRequest.from_response(
             response,
             formdata={'username': 'admin', 'password': 'AdminAdmin1!'},
@@ -28,12 +37,98 @@ class ExampleSpider(CrawlSpider):
         with open("app2Check.txt", 'a') as f:
             f.write(str(forms))
         ############################################
+        duplicateCheck = {}
+        # hxs = HtmlXPathSelector(response)
+        # links = hxs.select('//a/@href').extract()
+        # postLinks = hxs.select('//form/@action').extract()
+        links = response.selector.xpath('//a/@href').extract()
+        postLinks = response.selector.xpath('//form/@action').extract()
+
+        ######---form links
+
+        for form in forms:
+            eleJsonParams = {}
+            if form.get('method') is not None:
+                if form.get('method').lower() == "post":
+                    # formsoup = BeautifulSoup(form)
+                    formurl = form.get('action')
+                    if "://" not in formurl:
+                        hiturl = "https://app2.com"+formurl
+                    else:
+                        hiturl = formurl
+                    inpTag = form.find_all('input')
+                    for inp in inpTag:
+                        if inp.get('type') == "hidden" or inp.get('type') == "text":
+                            eleJsonParams[inp.get('name')] = inp.get('value')
+                    if duplicateCheck.get(hiturl) != hiturl:
+                        print "posting the form"
+                        postLinks.append(hiturl)
+                        duplicateCheck[hiturl] = hiturl
+                        yield Request(url=hiturl, method="POST", body=urllib.urlencode(eleJsonParams), callback=self.parse_page)
+                if form.get('method').lower() == "get":
+                    # formsoup = BeautifulSoup(form)
+                    formurl = form.get('action')
+                    if "://" not in formurl:
+                        hiturl = "https://app2.com"+formurl
+                    else:
+                        hiturl = formurl
+                    inpTag = form.find_all('input')
+                    for inp in inpTag:
+                        if inp.get('type') == "hidden" or inp.get('type') == "text":
+                            eleJsonParams[inp.get('name')] = inp.get('value')
+                    if duplicateCheck.get(hiturl) != hiturl:
+                        print "posting the form"
+                        postLinks.append(hiturl)
+                        duplicateCheck[hiturl] = hiturl
+                        yield Request(url=hiturl, method="GET", body=urllib.urlencode(eleJsonParams), callback=self.parse_page)
+        #####
+
+        if not postLinks:
+            print "empty"
+        else:
+            for postLink in postLinks:
+                with open("newpostLinks.txt", 'a') as f:
+                    f.write(postLink+"\n")
+
+
+        for link in links:
+            # print link
+            #only process external/full link
+            if "https://app2.com" in link and "https://app2.com/calendar/" not in link and "logout.php" not in link:
+                splitlink = link.split("?")
+                if duplicateCheck.get(splitlink[0]) != splitlink[0]:
+                    duplicateCheck[splitlink[0]] = splitlink[0]
+                    with open("newgetLinks.txt", 'a') as f:
+                        f.write(link+"\n")
+                    yield Request(url=link, callback=self.parse_page)
+
+class App10Spider(CrawlSpider):
+    name = 'app10'
+    start_urls = ['https://app10.com']
+
+    def parse(self, response):
+        try:
+            os.remove("newpostLinks.txt")
+            os.remove("newgetLinks.txt")
+        except OSError:
+            pass
+        yield Request(url=response.url, callback=self.parse_page)
+
+    def parse_page(self, response):
+        """ Scrape useful stuff from page, and spawn new requests
+        """
+        ############################################
+        soup = BeautifulSoup(response.body)
+        forms = soup.find_all('form')
+        with open("app10Check.txt", 'a') as f:
+            f.write(str(forms))
+        ############################################
 
         duplicateCheck = {}
-        hxs = HtmlXPathSelector(response)
-        links = hxs.select('//a/@href').extract()
+        # hxs = HtmlXPathSelector(response)
+        links = response.selector.xpath('//a/@href').extract()
         # links.append(hxs.select('//form/@action').extract())
-        postLinks = hxs.select('//form/@action').extract()
+        postLinks = response.selector.xpath('//form/@action').extract()
         # links.append(postLinks)
         if not postLinks:
             print "empty"
@@ -46,12 +141,14 @@ class ExampleSpider(CrawlSpider):
         for link in links:
             # print link
             #only process external/full link
-            if "https://app2.com" in link and "https://app2.com/calendar/" not in link:
+            if "//app10.com" in link:
                 if duplicateCheck.get(link) != link:
                     duplicateCheck[link] = link
                     with open("newgetLinks.txt", 'a') as f:
                         f.write(link+"\n")
                     yield Request(url=link, callback=self.parse_page)
+
+
 
 
 # #independent checks
