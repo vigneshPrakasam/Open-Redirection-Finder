@@ -1,0 +1,36 @@
+{
+        "http://bm1.com/redirect3.php": [
+                {
+                        "destination": "https://www.google.com", 
+                        "type": "get"
+                }
+        ], 
+        "http://bm1.com/test2.php": [
+                {
+                        "name": null, 
+                        "type": "get", 
+                        "url": "https://www.google.com"
+                }
+        ], 
+        "http://bm1.com/test4.php": [
+                {
+                        "name": null, 
+                        "type": "get", 
+                        "url": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ=="
+                }
+        ], 
+        "http://bm1.com/test5.php": [
+                {
+                        "Referer": "https://www.google.com", 
+                        "number": "https://www.google.com", 
+                        "type": "get"
+                }
+        ], 
+        "http://bm1.com/test8.php": [
+                {
+                        "Referer": "https://www.google.com", 
+                        "name": "https://www.google.com", 
+                        "type": "get"
+                }
+        ]
+}

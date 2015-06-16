@@ -1,0 +1,1265 @@
+{
+        "": {}, 
+        "#": {}, 
+        ".": {}, 
+        "action_redir.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "returnto": "https://app2.com/user/index.php?page=0&perpage=20&mode=&accesssince=0&search=&roleid=0&contextid=0&id=1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "auth_config.php": {
+                "Location": "Referer", 
+                "attrcreators": "", 
+                "auth": "cas", 
+                "baseuri": "", 
+                "bind_dn": "", 
+                "certificate_path": "", 
+                "contexts": "", 
+                "groupecreators": "", 
+                "host_url": "", 
+                "hostname": "", 
+                "ldapencoding": "utf-8", 
+                "lockconfig_field_map_address": "", 
+                "lockconfig_field_map_city": "", 
+                "lockconfig_field_map_country": "", 
+                "lockconfig_field_map_department": "", 
+                "lockconfig_field_map_description": "", 
+                "lockconfig_field_map_email": "", 
+                "lockconfig_field_map_firstname": "", 
+                "lockconfig_field_map_idnumber": "", 
+                "lockconfig_field_map_institution": "", 
+                "lockconfig_field_map_lang": "", 
+                "lockconfig_field_map_lastname": "", 
+                "lockconfig_field_map_phone1": "", 
+                "lockconfig_field_map_phone2": "", 
+                "lockconfig_field_map_url": "", 
+                "logout_return_url": "", 
+                "memberattribute": "", 
+                "memberattribute_isdn": "", 
+                "objectclass": "", 
+                "pagesize": "250", 
+                "port": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "user_attribute": ""
+        }, 
+        "blocks.php": {}, 
+        "edit.php": {
+                "Location": "Referer", 
+                "category": "1", 
+                "type": "get"
+        }, 
+        "editcategory.php": {
+                "Location": "Referer", 
+                "parent": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/": {}, 
+        "https://app2.com/admin/auth_config.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "auth": "cas", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/blocks.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/courseformats.php": {
+                "Location": "Referer", 
+                "action": "uninstall", 
+                "confirm": "1", 
+                "format": "scorm", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/enrol.php": {
+                "Location": "Referer", 
+                "action": "uninstall", 
+                "confirm": "1", 
+                "enrol": "authorize", 
+                "migrate": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/environment.php": {}, 
+        "https://app2.com/admin/filters.php": {}, 
+        "https://app2.com/admin/index.php": {
+                "Location": "Referer", 
+                "fetchupdates": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/localplugins.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/message.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/modules.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/phpinfo.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/plugins.php": {
+                "Location": "Referer", 
+                "contribonly": "", 
+                "fetchremote": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "updatesonly": ""
+        }, 
+        "https://app2.com/admin/portfolio.php": {
+                "Location": "Referer", 
+                "pf": "picasa", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/purgecaches.php": {
+                "Location": "Referer", 
+                "confirm": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/qbehaviours.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/qtypes.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/registration/index.php": {
+                "Location": "Referer", 
+                "_qf__hub_selector_form": "1", 
+                "httpoermoodlede": "OER-Kurse f\u00fcr Moodle", 
+                "httpschulmoodle-saarlpmuni-sbdehub": "LPM - RP Hub", 
+                "httpwwwmzjenademoodlehub": "Moodle HUB MZ JENA", 
+                "password": null, 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "unlistedurl": null
+        }, 
+        "https://app2.com/admin/registration/register.php": {
+                "Location": "Referer", 
+                "_qf__site_registration_form": "1", 
+                "contactemail": "admin@admin.com", 
+                "contactname": "Admin User", 
+                "contactphone": null, 
+                "courses": "1", 
+                "geolocation": "", 
+                "hubname": "Moodle.org", 
+                "huburl": "http://hub.moodle.org", 
+                "imageurl": "", 
+                "modulenumberaverage": "1", 
+                "moodlerelease": "2.4 (Build: 20121203)", 
+                "moodleversion": "2012120300", 
+                "name": "test site", 
+                "participantnumberaverage": "1", 
+                "password": "", 
+                "posts": "1", 
+                "questions": "1", 
+                "regioncode": "-", 
+                "resources": "1", 
+                "roleassignments": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "users": "1"
+        }, 
+        "https://app2.com/admin/reports.php": {}, 
+        "https://app2.com/admin/repository.php": {
+                "Location": "Referer", 
+                "repos": "webdav", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/admins.php": {
+                "Location": "Referer", 
+                "addselect_searchtext": "", 
+                "removeselect_searchtext": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "userselector_autoselectunique": "0", 
+                "userselector_preserveselected": "0", 
+                "userselector_searchanywhere": "0"
+        }, 
+        "https://app2.com/admin/roles/allow.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "mode": "assign", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/allow.php?mode=assign": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/roles/assign.php": {
+                "Location": "Referer", 
+                "contextid": "1", 
+                "roleid": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/check.php": {
+                "Location": "Referer", 
+                "contextid": "22", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/define.php": {
+                "Location": "Referer", 
+                "action": "add", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/manage.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/override.php": {
+                "Location": "Referer", 
+                "contextid": "5", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/roles/permissions.php": {
+                "Location": "Referer", 
+                "contextid": "5", 
+                "courseid": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get", 
+                "userid": "2"
+        }, 
+        "https://app2.com/admin/roles/usersroles.php": {
+                "Location": "Referer", 
+                "courseid": "1", 
+                "type": "get", 
+                "userid": "2"
+        }, 
+        "https://app2.com/admin/search.php": {
+                "Location": "Referer", 
+                "query": "", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/settings.php": {
+                "Location": "Referer", 
+                "section": "manageenrols", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/assignmentupgrade/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/assignmentupgrade/listnotupgraded.php": {
+                "Location": "Referer", 
+                "_qf__tool_assignmentupgrade_pagination_form": "1", 
+                "action": "saveoptions", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/tool/capability/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/customlang/index.php": {}, 
+        "https://app2.com/admin/tool/dbtransfer/index.php": {
+                "Location": "Referer", 
+                "_qf__database_transfer_form": "1", 
+                "dbhost": null, 
+                "dbname": null, 
+                "dbport": null, 
+                "dbsocket": null, 
+                "dbuser": null, 
+                "enablemaintenance": "0", 
+                "prefix": null, 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/tool/langimport/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/langimport/index.php?mode=2": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/tool/langimport/index.php?mode=4": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/tool/langimport/index.php?mode=5": {}, 
+        "https://app2.com/admin/tool/phpunit/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/qeupgradehelper/cronsetup.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/qeupgradehelper/extracttestcase.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/qeupgradehelper/index.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/qeupgradehelper/listtodo.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/qeupgradehelper/listupgraded.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/spamcleaner/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/timezoneimport/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/unsuproles/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tool/uploaduser/index.php": {
+                "Location": "Referer", 
+                "_qf__admin_uploaduser_form1": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "userfile": "393930197"
+        }, 
+        "https://app2.com/admin/tool/uploaduser/picture.php": {
+                "Location": "Referer", 
+                "_qf__admin_uploadpicture_form": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "userpicturesfile": "479228477"
+        }, 
+        "https://app2.com/admin/tool/xmldb/": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/tools.php": {}, 
+        "https://app2.com/admin/user.php": {
+                "Location": "Referer", 
+                "_qf__user_active_filter_form": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/user/user_bulk.php": {
+                "Location": "Referer", 
+                "_qf__user_bulk_action_form": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/webservice/documentation.php": {
+                "Location": "Referer", 
+                "print": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/admin/webservice/protocols.php": {
+                "Location": "Referer", 
+                "action": "uninstall", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get", 
+                "webservice": "amf"
+        }, 
+        "https://app2.com/admin/webservice/service.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/admin/webservice/testclient.php": {
+                "Location": "Referer", 
+                "_qf__webservice_test_client_form": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/backup/backup.php": {
+                "Location": "Referer", 
+                "cm": "2", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/backup/backupfilesedit.php": {
+                "Location": "Referer", 
+                "component": "user", 
+                "contextid": "5", 
+                "currentcontext": "22", 
+                "filearea": "backup", 
+                "returnurl": "https://app2.com/backup/restorefile.php?contextid=22", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/backup/import.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "search": "", 
+                "target": "1", 
+                "type": "post"
+        }, 
+        "https://app2.com/backup/restorefile.php": {
+                "Location": "Referer", 
+                "contextid": "22", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/blocks/admin_bookmarks/create.php": {
+                "Location": "Referer", 
+                "section": "editusers", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/blocks/admin_bookmarks/delete.php": {
+                "Location": "Referer", 
+                "section": "profilefields", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/blog/edit.php": {
+                "null": "", 
+                "Location": "Referer", 
+                "_qf__blog_edit_form": "1", 
+                "action": "add", 
+                "attachment_filemanager": "151764493", 
+                "courseid": "0", 
+                "entryid": "", 
+                "modid": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "subject": null, 
+                "summary_editor[itemid]": "121435359", 
+                "type": "post"
+        }, 
+        "https://app2.com/blog/external_blog_edit.php": {
+                "Location": "Referer", 
+                "_qf__blog_edit_external_form": "1", 
+                "autotags": null, 
+                "filtertags": null, 
+                "id": "0", 
+                "name": null, 
+                "returnurl": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "url": null
+        }, 
+        "https://app2.com/blog/index.php": {
+                "Location": "Referer", 
+                "courseid": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/cache/admin.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/cache/testperformance.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/cohort/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/comment/": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/changenumsections.php": {
+                "Location": "Referer", 
+                "courseid": "2", 
+                "increase": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/edit.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/editsection.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "sr": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/index.php": {
+                "Location": "Referer", 
+                "categoryedit": "on", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/jumpto.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/course/mod.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "sr": "0", 
+                "type": "get", 
+                "update": "1"
+        }, 
+        "https://app2.com/course/modedit.php": {
+                "Location": "Referer", 
+                "return": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "sr": "", 
+                "type": "get", 
+                "update": "2"
+        }, 
+        "https://app2.com/course/pending.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/publish/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/recent.php": {
+                "Location": "Referer", 
+                "_qf__recent_form": "1", 
+                "id": "2", 
+                "mform_showadvanced_last": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/course/reset.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/search.php": {
+                "Location": "Referer", 
+                "search": "", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/switchrole.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "returnurl": "https%3A%2F%2Fapp2.com%2Fmod%2Fwiki%2Fviewversion.php%3Fpageid%3D1%26versionid%3D6%26sesskey%3DkIk5ac8Xlk", 
+                "sesskey": "kIk5ac8Xlk", 
+                "switchrole": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/course/user.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "mode": "grade", 
+                "type": "get", 
+                "user": "2"
+        }, 
+        "https://app2.com/course/view.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/enrol/instances.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/enrol/manual/edit.php": {
+                "Location": "Referer", 
+                "courseid": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/enrol/otherusers.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/enrol/users.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/filter/manage.php": {
+                "Location": "Referer", 
+                "contextid": "22", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/filter/manage.php?contextid=22": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/grade/edit/letter/index.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/edit/scale/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/edit/settings/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/edit/tree/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "showadvanced": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/export/ods/index.php": {
+                "Location": "Referer", 
+                "_qf__grade_export_form": "1", 
+                "checkbox_controller1": "1", 
+                "export_feedback": "0", 
+                "export_onlyactive": "0", 
+                "id": "1", 
+                "itemids[1]": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/grade/export/txt/index.php": {
+                "Location": "Referer", 
+                "_qf__grade_export_form": "1", 
+                "checkbox_controller1": "1", 
+                "export_feedback": "0", 
+                "export_onlyactive": "0", 
+                "id": "1", 
+                "itemids[1]": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/grade/export/xls/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/export/xml/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/import/csv/index.php": {
+                "Location": "Referer", 
+                "_qf__grade_import_form": "1", 
+                "groupid": "", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "userfile": "748216799"
+        }, 
+        "https://app2.com/grade/import/xml/index.php": {
+                "Location": "Referer", 
+                "_qf__grade_import_form": "1", 
+                "feedback": "0", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "url": null, 
+                "userfile": "621491403"
+        }, 
+        "https://app2.com/grade/report/grader/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/report/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/report/outcomes/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/grade/report/overview/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/group/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/help.php": {
+                "Location": "Referer", 
+                "component": "moodle", 
+                "identifier": "dndenabled", 
+                "lang": "en", 
+                "type": "get"
+        }, 
+        "https://app2.com/lib/editor/tinymce/subplugins.php": {
+                "Location": "Referer", 
+                "confirm": "1", 
+                "delete": "dragmath", 
+                "return": "overview", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/login/change_password.php": {
+                "Location": "Referer", 
+                "_qf__login_change_password_form": "1", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/message/defaultoutputs.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/message/edit.php": {
+                "Location": "Referer", 
+                "course": "1", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/assign/adminmanageplugins.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "subtype": "assignsubmission", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/discuss.php": {
+                "Location": "Referer", 
+                "d": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/post.php": {
+                "Location": "Referer", 
+                "forum": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/search.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/subscribe.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "mode": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/subscribers.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/user.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/forum/view.php": {
+                "Location": "Referer", 
+                "f": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/admin.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/comments.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/create.php": {
+                "Location": "Referer", 
+                "action": "new", 
+                "sesskey": "kIk5ac8Xlk", 
+                "swid": "1", 
+                "type": "get", 
+                "wid": ""
+        }, 
+        "https://app2.com/mod/wiki/create.php?action=create&wid=1&group=0&uid=0": {
+                "Location": "Referer", 
+                "_qf__mod_wiki_create_form": "1", 
+                "action": "create", 
+                "pagetitle": "New", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/mod/wiki/diff.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/edit.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/edit.php?pageid=1": {
+                "Location": "Referer", 
+                "_qf__mod_wiki_edit_form": "1", 
+                "contentformat": "html", 
+                "newcontent_editor[itemid]": "544841011", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "version": "3"
+        }, 
+        "https://app2.com/mod/wiki/editcomments.php": {
+                "Location": "Referer", 
+                "action": "add", 
+                "pageid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/files.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/filesedit.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "subwiki": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/history.php": {
+                "Location": "Referer", 
+                "pageid1": "", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/map.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/prettyview.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/restoreversion.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get", 
+                "versionid": "6"
+        }, 
+        "https://app2.com/mod/wiki/search.php": {
+                "Location": "Referer", 
+                "cmid": "2", 
+                "courseid": "1", 
+                "searchstring": "", 
+                "searchwikicontent": "1", 
+                "type": "post"
+        }, 
+        "https://app2.com/mod/wiki/view.php": {
+                "Location": "Referer", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/mod/wiki/viewversion.php": {
+                "Location": "Referer", 
+                "pageid": "1", 
+                "type": "get", 
+                "versionid": "6"
+        }, 
+        "https://app2.com/my/index.php": {
+                "Location": "Referer", 
+                "edit": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/my/indexsys.php": {
+                "Location": "Referer", 
+                "edit": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/notes/index.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/question/addquestion.php": {
+                "Location": "Referer", 
+                "category": "2", 
+                "courseid": "1", 
+                "returnurl": "/question/edit.php?courseid=1", 
+                "type": "get"
+        }, 
+        "https://app2.com/question/category.php": {
+                "Location": "Referer", 
+                "_qf__question_category_edit_form": "1", 
+                "courseid": "1", 
+                "id": "0", 
+                "name": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/question/edit.php": {
+                "Location": "Referer", 
+                "courseid": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/question/export.php": {
+                "Location": "Referer", 
+                "_qf__question_export_form": "1", 
+                "courseid": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/question/import.php": {
+                "Location": "Referer", 
+                "_qf__question_import_form": "1", 
+                "courseid": "1", 
+                "newfile": "968668009", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/question/question.php": {}, 
+        "https://app2.com/report/backups/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/configlog/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/courseoverview/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/log/index.php": {
+                "Location": "Referer", 
+                "chooselog": "1", 
+                "showcourses": "1", 
+                "showusers": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/log/user.php": {
+                "Location": "Referer", 
+                "course": "1", 
+                "id": "2", 
+                "mode": "today", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/loglive/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "inpopup": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/outline/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/outline/user.php": {
+                "Location": "Referer", 
+                "course": "1", 
+                "id": "2", 
+                "mode": "outline", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/participation/index.php": {
+                "Location": "Referer", 
+                "id": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/questioninstances/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/security/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/stats/index.php": {
+                "Location": "Referer", 
+                "adminedit": "1", 
+                "type": "get"
+        }, 
+        "https://app2.com/report/stats/user.php": {
+                "Location": "Referer", 
+                "course": "1", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "https://app2.com/tag/coursetags_add.php": {
+                "Location": "Referer", 
+                "coursetag_new_tag": null, 
+                "coursetag_sug_keyword": null, 
+                "entryid": "2", 
+                "returnurl": "https://app2.com/course/view.php?id=2", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post", 
+                "userid": "2"
+        }, 
+        "https://app2.com/tag/coursetags_edit.php": {
+                "Location": "Referer", 
+                "courseid": "2", 
+                "coursetag_new_tag": null, 
+                "coursetag_sug_keyword": null, 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/tag/coursetags_more.php": {
+                "Location": "Referer", 
+                "show": "all", 
+                "type": "get"
+        }, 
+        "https://app2.com/tag/edit.php": {
+                "Location": "Referer", 
+                "_qf__tag_edit_form": "1", 
+                "description_editor[itemid]": "386636124", 
+                "id": "4", 
+                "rawname": "https://www.google.com", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/tag/index.php": {
+                "Location": "Referer", 
+                "edit": "on", 
+                "id": "2", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/tag/manage.php": {
+                "Location": "Referer", 
+                "newname[1]": null, 
+                "newname[2]": null, 
+                "newname[3]": null, 
+                "newname[4]": null, 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/tag/user.php": {
+                "Location": "Referer", 
+                "action": "removeinterest", 
+                "sesskey": "kIk5ac8Xlk", 
+                "tag": "dsa", 
+                "type": "get"
+        }, 
+        "https://app2.com/theme/index.php": {
+                "Location": "Referer", 
+                "device": "tablet", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/user/editadvanced.php": {
+                "null": "", 
+                "Location": "Referer", 
+                "_qf__user_editadvanced_form": "1", 
+                "address": "", 
+                "aim": "", 
+                "city": "sg", 
+                "course": "1", 
+                "department": "", 
+                "description_editor[itemid]": "298105343", 
+                "email": "admin@admin.com", 
+                "firstname": "Admin", 
+                "icq": "", 
+                "id": "2", 
+                "idnumber": "", 
+                "imagealt": "", 
+                "imagefile": "387904468", 
+                "institution": "", 
+                "lastname": "User", 
+                "msn": "", 
+                "phone1": "", 
+                "phone2": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "skype": "", 
+                "type": "post", 
+                "url": "", 
+                "username": "admin", 
+                "yahoo": ""
+        }, 
+        "https://app2.com/user/files.php": {
+                "null": "", 
+                "Location": "Referer", 
+                "_qf__user_files_form": "1", 
+                "files_filemanager": "896140756", 
+                "returnurl": "https://app2.com/user/files.php", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/user/index.php": {
+                "Location": "Referer", 
+                "contextid": "2", 
+                "id": "1", 
+                "perpage": "20", 
+                "roleid": "0", 
+                "search": "", 
+                "type": "get"
+        }, 
+        "https://app2.com/user/managetoken.php": {
+                "Location": "Referer", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/user/profile.php": {
+                "Location": "Referer", 
+                "id": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "get"
+        }, 
+        "https://app2.com/user/profile/index.php": {
+                "Location": "Referer", 
+                "action": "editfield", 
+                "id": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/user/profilesys.php": {
+                "Location": "Referer", 
+                "edit": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "https://app2.com/user/view.php": {
+                "Location": "Referer", 
+                "course": "1", 
+                "id": "2", 
+                "type": "get"
+        }, 
+        "index.php": {
+                "Location": "Referer", 
+                "type": "get", 
+                "viewing": "search"
+        }, 
+        "message.php": {}, 
+        "modedit.php": {
+                "Location": "Referer", 
+                "_qf__mod_wiki_mod_form": "1", 
+                "add": "0", 
+                "cmidnumber": null, 
+                "course": "1", 
+                "coursemodule": "2", 
+                "firstpagetitle": "wikitest", 
+                "instance": "1", 
+                "introeditor[itemid]": "556991514", 
+                "mform_showadvanced_last": "", 
+                "module": "21", 
+                "modulename": "wiki", 
+                "name": "wikitest", 
+                "return": "1", 
+                "section": "1", 
+                "sesskey": "kIk5ac8Xlk", 
+                "sr": "0", 
+                "type": "post", 
+                "update": "2"
+        }, 
+        "modules.php": {}, 
+        "pending.php": {}, 
+        "post.php": {
+                "null": "", 
+                "Location": "Referer", 
+                "_qf__mod_forum_post_form": "1", 
+                "attachments": "415387795", 
+                "course": "2", 
+                "discussion": "1", 
+                "edit": "1", 
+                "forum": "0", 
+                "groupid": "0", 
+                "message[itemid]": "337174981", 
+                "parent": "0", 
+                "reply": "0", 
+                "sesskey": "kIk5ac8Xlk", 
+                "subject": "test", 
+                "subscribe": "1", 
+                "timeend": "0", 
+                "timestart": "0", 
+                "type": "post", 
+                "userid": "2"
+        }, 
+        "preferences.php": {
+                "Location": "Referer", 
+                "_qf__blog_preferences_form": "1", 
+                "pagesize": "10", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "register.php": {
+                "Location": "Referer", 
+                "hubname": "Moodle.org", 
+                "huburl": "http://hub.moodle.org", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "registration/register.php": {
+                "Location": "Referer", 
+                "hubname": "Moodle.org", 
+                "huburl": "http://hub.moodle.org", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "search.php": {
+                "Location": "Referer", 
+                "query": "", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }, 
+        "settings.php": {
+                "Location": "Referer", 
+                "return": "", 
+                "s_assignsubmission_onlinetext_default": "0", 
+                "section": "assignsubmission_onlinetext", 
+                "sesskey": "kIk5ac8Xlk", 
+                "type": "post"
+        }
+}

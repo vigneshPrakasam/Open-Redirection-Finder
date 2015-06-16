@@ -1,0 +1,14 @@
+{
+	"origin" : "http://bm1.com/",
+	"login" : "False",
+	"appname": "bm1",
+	"login_page" : "https://app2.com/login/index.php",
+	"form_username_name" : "username",
+	"form_username_value" : "admin",
+	"form_password_name" : "password",
+	"form_password_value" : "AdminAdmin1!",
+	"form_login_button_id" : "loginbtn",
+	"form_login_button_name" : null,
+	"dynamic_param" : "False",
+	"label" : "sesskey"
+}

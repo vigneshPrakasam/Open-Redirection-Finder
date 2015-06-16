@@ -1,0 +1,6 @@
+https://app2.com/course/switchrole.php?id=2&sesskey=b6RjMGdAFO&switchrole=0&returnurl=http://www.google.com
+https://app2.com/backup/backupfilesedit.php?contextid=15&currentcontext=15&sesskey=b6RjMGdAFO&returnurl=http://www.google.com
+https://app2.com/comment/comment_post.php?sesskey=b6RjMGdAFO&returnurl=http://www.google.com
+https://app2.com/user/files.php?contextid=15&currentcontext=15&sesskey=b6RjMGdAFO&returnurl=http://www.google.com
+https://app2.com/tag/coursetags_add.php?contextid=15&currentcontext=15&sesskey=b6RjMGdAFO&returnurl=http://www.google.com
+https://app2.com/mod/wiki/filesedit.php?subwiki=1&pageid=1&sesskey=b6RjMGdAFO&returnurl=http://www.google.com

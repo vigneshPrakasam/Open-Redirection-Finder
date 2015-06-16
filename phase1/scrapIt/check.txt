@@ -1,0 +1,47 @@
+<form accept-charset="utf-8" action="https://app2.com/backup/restorefile.php" autocomplete="off" class="mform" id="mform1" method="post">
+<div style="display: none;"><input name="contextid" type="hidden" value="20"/>
+<input name="sesskey" type="hidden" value="ht0I6DB63g"/>
+<input name="_qf__course_restore_form" type="hidden" value="1"/>
+</div>
+<fieldset class="hidden"><div>
+<div class="fitem fitem_ffilepicker" id="fitem_id_backupfile"><div class="fitemtitle"><label for="id_backupfile">Files </label></div><div class="felement ffilepicker"><div class="filemanager-loading mdl-align" id="filepicker-loading-5520398211941">
+<img alt="Loading..." class="smallicon" src="https://app2.com/theme/image.php/standard/core/1426129263/i/loading_small" title="Loading..."/>
+</div>
+<div class="mdl-left" id="filepicker-wrapper-5520398211941" style="display:none">
+<div>
+<input class="fp-btn-choose" id="filepicker-button-5520398211941" name="backupfilechoose" type="button" value="Choose a file..."/>
+<span> </span>
+</div> <div class="mdl-left filepicker-filelist" id="file_info_5520398211941" style="position: relative">
+<div class="filepicker-filename">
+<div class="filepicker-container"><div class="dndupload-message">You can drag and drop files here to add them. <br/><div class="dndupload-arrow"></div></div></div>
+</div>
+<div><div class="dndupload-target">Drop files here to upload<br/><div class="dndupload-arrow"></div></div></div>
+</div></div><input class="filepickerhidden" id="id_backupfile" name="backupfile" type="hidden" value="479254860"/><noscript><div><object data="https://app2.com/repository/draftfiles_manager.php?env=filepicker&amp;action=browse&amp;itemid=479254860&amp;subdirs=0&amp;maxbytes=-1&amp;maxfiles=1&amp;ctx_id=20&amp;course=2&amp;sesskey=ht0I6DB63g" height="160" style="border:1px solid #000" type="text/html" width="600"></object></div></noscript></div></div>
+</div></fieldset>
+<fieldset class="hidden"><div>
+<div class="fitem fitem_actionbuttons fitem_fsubmit" id="fitem_id_submitbutton"><div class="felement fsubmit"><input id="id_submitbutton" name="submitbutton" type="submit" value="Restore"/></div></div>
+</div></fieldset>
+</form><form accept-charset="utf-8" action="https://app2.com/backup/restorefile.php" autocomplete="off" class="mform" id="mform1" method="post">
+<div style="display: none;"><input name="contextid" type="hidden" value="20"/>
+<input name="sesskey" type="hidden" value="ht0I6DB63g"/>
+<input name="_qf__course_restore_form" type="hidden" value="1"/>
+</div>
+<fieldset class="hidden"><div>
+<div class="fitem fitem_ffilepicker" id="fitem_id_backupfile"><div class="fitemtitle"><label for="id_backupfile">Files </label></div><div class="felement ffilepicker"><div class="filemanager-loading mdl-align" id="filepicker-loading-5520398211941">
+<img alt="Loading..." class="smallicon" src="https://app2.com/theme/image.php/standard/core/1426129263/i/loading_small" title="Loading..."/>
+</div>
+<div class="mdl-left" id="filepicker-wrapper-5520398211941" style="display:none">
+<div>
+<input class="fp-btn-choose" id="filepicker-button-5520398211941" name="backupfilechoose" type="button" value="Choose a file..."/>
+<span> </span>
+</div> <div class="mdl-left filepicker-filelist" id="file_info_5520398211941" style="position: relative">
+<div class="filepicker-filename">
+<div class="filepicker-container"><div class="dndupload-message">You can drag and drop files here to add them. <br/><div class="dndupload-arrow"></div></div></div>
+</div>
+<div><div class="dndupload-target">Drop files here to upload<br/><div class="dndupload-arrow"></div></div></div>
+</div></div><input class="filepickerhidden" id="id_backupfile" name="backupfile" type="hidden" value="479254860"/><noscript><div><object data="https://app2.com/repository/draftfiles_manager.php?env=filepicker&amp;action=browse&amp;itemid=479254860&amp;subdirs=0&amp;maxbytes=-1&amp;maxfiles=1&amp;ctx_id=20&amp;course=2&amp;sesskey=ht0I6DB63g" height="160" style="border:1px solid #000" type="text/html" width="600"></object></div></noscript></div></div>
+</div></fieldset>
+<fieldset class="hidden"><div>
+<div class="fitem fitem_actionbuttons fitem_fsubmit" id="fitem_id_submitbutton"><div class="felement fsubmit"><input id="id_submitbutton" name="submitbutton" type="submit" value="Restore"/></div></div>
+</div></fieldset>
+</form><form action="https://app2.com/backup/backupfilesedit.php" method="post"><div><input type="submit" value="Manage backup files"/><input name="currentcontext" type="hidden" value="20"/><input name="contextid" type="hidden" value="20"/><input name="filearea" type="hidden" value="activity"/><input name="component" type="hidden" value="backup"/><input name="returnurl" type="hidden" value="https://app2.com/backup/restorefile.php?contextid=20"/><input name="sesskey" type="hidden" value="ht0I6DB63g"/></div></form><form action="https://app2.com/backup/backupfilesedit.php" method="post"><div><input type="submit" value="Manage backup files"/><input name="currentcontext" type="hidden" value="20"/><input name="contextid" type="hidden" value="20"/><input name="filearea" type="hidden" value="course"/><input name="component" type="hidden" value="backup"/><input name="returnurl" type="hidden" value="https://app2.com/backup/restorefile.php?contextid=20"/><input name="sesskey" type="hidden" value="ht0I6DB63g"/></div></form><form action="https://app2.com/backup/backupfilesedit.php" method="post"><div><input type="submit" value="Manage backup files"/><input name="currentcontext" type="hidden" value="20"/><input name="contextid" type="hidden" value="5"/><input name="filearea" type="hidden" value="backup"/><input name="component" type="hidden" value="user"/><input name="returnurl" type="hidden" value="https://app2.com/backup/restorefile.php?contextid=20"/><input name="sesskey" type="hidden" value="ht0I6DB63g"/></div></form><form action="https://app2.com/admin/search.php" class="adminsearchform" method="get" role="search"><div><label class="accesshide" for="adminsearchquery">Search in settings</label><input id="adminsearchquery" name="query" type="text" value=""/><input type="submit" value="Search"/></div></form>

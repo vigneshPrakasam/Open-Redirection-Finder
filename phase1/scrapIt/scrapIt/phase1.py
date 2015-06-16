@@ -7,6 +7,7 @@ import copy
 import time
 from pprint import pprint
 import urllib2
+import ast
 # import requests.packages.urllib3.contrib.pyopenssl
 # requests.packages.urllib3.contrib.pyopenssl.inject_into_urllib3()
 
@@ -32,48 +33,62 @@ def getParams(getParamsJson):
             getParamsJson[splitLink[0]] = eleJson
     return getParamsJson
 
-def postParams(phase1json):
-    postParamsJson = phase1json
+def post_params(postreq_dict):
     filepath = os.path.dirname(os.path.abspath(__file__)).strip("\scrapIt")
     #generalize
-    filepath = filepath + "\scrapIt\\app2Check.txt"
-    # filepath = filepath + "\scrapIt\\app10Check.txt"
+    filepath = filepath + "\scrapIt\\newPost.txt"
     with open(filepath, 'r') as f:
-        content = f.read()
-    soup = BeautifulSoup(content)
-    forms = soup.find_all('form')
-    for form in forms:
-        eleJson = {}
-        if form.get('method') is not None:
-            if form.get('method').lower() == "post":
-                print "******************POST*******************************************"
-                print form.get('action')
-                formSoup = BeautifulSoup(str(form))
-                inpTag = formSoup.find_all('input')
-                for inp in inpTag:
-                    if inp.get('type') == "hidden" or inp.get('type') == "text":
-                        # print inp.get('name'), " = ", inp.get('value')
-                        eleJson['type'] = "post"
-                        # eleJson["param"+str(i)] = inp.get('name')
-                        eleJson[inp.get('name')] = inp.get('value')
-                        eleJson["Location"] = "Referer"                        
-                postParamsJson[form.get('action')] = eleJson
+        postreq_content = f.read()
+    forloop = postreq_content.split("$eof$")
+    forloop.pop()
+    for eachpost in forloop:
+        postreq_split = eachpost.split("==")
+        temp_str = postreq_split[1]
+        evalStr = ast.literal_eval(temp_str)
+        postreq_dict[postreq_split[0]] = evalStr
+    return postreq_dict
 
-            if form.get('method').lower() == "get":
-                print "*********************GET*****************************************"
-                print form.get('action')
-                formSoup = BeautifulSoup(str(form))
-                inpTag = formSoup.find_all('input')
-                for inp in inpTag:
-                    if inp.get('type') == "hidden" or inp.get('type') == "text":
-                        # print inp.get('name'), " = ", inp.get('value')
-                        eleJson['type'] = "get"
-                        # eleJson["param"+str(i)] = inp.get('name')
-                        eleJson[inp.get('name')] = inp.get('value')
-                        eleJson["Location"] = "Referer"
-
-                postParamsJson[form.get('action')] = eleJson
-    return postParamsJson
+# def postParams(phase1json):
+#     postParamsJson = phase1json
+#     filepath = os.path.dirname(os.path.abspath(__file__)).strip("\scrapIt")
+#     #generalize
+#     filepath = filepath + "\scrapIt\\app2Check.txt"
+#     # filepath = filepath + "\scrapIt\\app10Check.txt"
+#     with open(filepath, 'r') as f:
+#         content = f.read()
+#     soup = BeautifulSoup(content)
+#     forms = soup.find_all('form')
+#     for form in forms:
+#         print form.get('action')
+#         eleJson = {}
+#         if form.get('method') is not None:
+#             if form.get('method').lower() == "post":
+#                 print "******************POST*******************************************"
+#                 formSoup = BeautifulSoup(str(form))
+#                 inpTag = formSoup.find_all('input')
+#                 for inp in inpTag:
+#                     if inp.get('type') == "hidden" or inp.get('type') == "text":
+#                         # print inp.get('name'), " = ", inp.get('value')
+#                         eleJson['type'] = "post"
+#                         # eleJson["param"+str(i)] = inp.get('name')
+#                         eleJson[inp.get('name')] = inp.get('value')
+#                         eleJson["Location"] = "Referer"
+#                 postParamsJson[form.get('action')] = eleJson
+#
+#             if form.get('method').lower() == "get":
+#                 print "*********************GET*****************************************"
+#                 print form.get('action')
+#                 formSoup = BeautifulSoup(str(form))
+#                 inpTag = formSoup.find_all('input')
+#                 for inp in inpTag:
+#                     if inp.get('type') == "hidden" or inp.get('type') == "text":
+#                         # print inp.get('name'), " = ", inp.get('value')
+#                         eleJson['type'] = "get"
+#                         # eleJson["param"+str(i)] = inp.get('name')
+#                         eleJson[inp.get('name')] = inp.get('value')
+#                         eleJson["Location"] = "Referer"
+#                 postParamsJson[form.get('action')] = eleJson
+#     return postParamsJson
 
 ###################################----Phase 1 (END)--------########################################################
 
@@ -247,19 +262,61 @@ def app10TestUnit():
         r = s.get("http://app10.com/index.php", params=para, verify=False)
         print r.url
 
+def testgig():
+    filepath = os.path.dirname(os.path.abspath(__file__)).strip("\scrapIt")
+    #generalize
+    filepath = filepath + "\scrapIt\\newPost.txt"
+    # filepath = filepath + "\scrapIt\\app10Check.txt"
+    # with open(filepath, 'r') as f:
+    #     content = f.read()
+    # postreq_json = {}
+    with open(filepath, 'r') as f:
+        postreq_content = f.read()
+
+    postreq_dict = {}
+    forloop = postreq_content.split("$eof$")
+    forloop.pop()
+    eleJson = {}
+    for eachpost in forloop:
+        postreq_split = eachpost.split("==")
+        temp_str = postreq_split[1]
+        # print temp_str
+        evalStr = ast.literal_eval(temp_str)
+        # eleJson = temp_str[1:len(temp_str)-1]
+        postreq_dict[postreq_split[0]] = evalStr
+
+    # print postreq_json
+    postreq_json = json.dumps(postreq_dict, sort_keys=True, indent=8)
+    with open("postGetJSON.JSON", 'w') as f:
+        f.write(postreq_json)
+
+    print postreq_json
+    with open("postGetJSON.JSON") as f:
+        postGetJson = json.load(f)
+    # val = postGetJson["https://app2.com/tag/manage.php"]
+
+
+
+
+    # postreq_json = postreq_json
+    # print json.dumps(postreq_json, sort_keys=True, indent=8)
+
+
+
 ###############################----test units(END)------#################################################
 
-json1 = {}
-json2 = getParams(json1)
-phase1json = postParams(json2)
-jsonString = json.dumps(phase1json, sort_keys=True, indent=8)
-try:
-    os.remove("postGetJSON.JSON")
-except OSError:
-        pass
-with open("postGetJSON.JSON", 'w') as f:
-    f.write(jsonString)
-print jsonString
+# json1 = {}
+# json2 = getParams(json1)
+# phase1json = post_params(json2)
+# jsonString = json.dumps(phase1json, sort_keys=True, indent=8)
+# try:
+#     os.remove("postGetJSON.JSON")
+# except OSError:
+#         pass
+# with open("postGetJSON.JSON", 'w') as f:
+#     f.write(jsonString)
+# print jsonString
 
-# test()
+test()
 # app10TestUnit()
+# testgig()

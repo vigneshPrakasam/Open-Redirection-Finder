@@ -1,0 +1,6 @@
+test2.php=!={'url': 'test.php', 'type': 'get', 'name': None, 'Location': 'Referer'}
+test8.php=!={'type': 'get', 'name': None, 'Location': 'Referer'}
+test6.php=!={'var': 'bm1.com/test6.php', 'type': 'post', 'name': None, 'Location': 'Referer'}
+test5.php=!={'type': 'get', 'number': None, 'Location': 'Referer'}
+test4.php=!={'url': 'dGVzdC5waHA=', 'type': 'get', 'name': None, 'Location': 'Referer'}
+test8.php=!={'type': 'get', 'name': None, 'Location': 'Referer'}

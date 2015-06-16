@@ -1,0 +1,26 @@
+{
+        "https://app2.com/course/switchrole.php": {
+                "id": "1", 
+                "returnurl": "https://www.google.com", 
+                "sesskey": "JlCU36j6Om", 
+                "switchrole": "0", 
+                "type": "get"
+        }, 
+        "https://app2.com/tag/coursetags_add.php": {
+                "coursetag_new_tag": null, 
+                "coursetag_sug_keyword": null, 
+                "entryid": "2", 
+                "returnurl": "https://www.google.com", 
+                "sesskey": "WT0iYDzNVc", 
+                "type": "post", 
+                "userid": "2"
+        }, 
+        "https://app2.com/user/files.php": {
+                "_qf__user_files_form": "1", 
+                "files_filemanager": "896140756", 
+                "null": "", 
+                "returnurl": "https://www.google.com", 
+                "sesskey": "QGSbKqzFvL", 
+                "type": "post"
+        }
+}

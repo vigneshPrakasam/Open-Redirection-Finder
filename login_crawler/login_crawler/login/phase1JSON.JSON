@@ -1,0 +1,47 @@
+{
+        "http://bm1.com/redirect3.php": [
+                {
+                        "Location": "Referer", 
+                        "destination": "test3.php", 
+                        "type": "get"
+                }
+        ], 
+        "test2.php": [
+                {
+                        "Location": "Referer", 
+                        "name": null, 
+                        "type": "get", 
+                        "url": "test.php"
+                }
+        ], 
+        "test4.php": [
+                {
+                        "Location": "Referer", 
+                        "name": null, 
+                        "type": "get", 
+                        "url": "dGVzdC5waHA="
+                }
+        ], 
+        "test5.php": [
+                {
+                        "Location": "Referer", 
+                        "number": null, 
+                        "type": "get"
+                }
+        ], 
+        "test6.php": [
+                {
+                        "Location": "Referer", 
+                        "name": null, 
+                        "type": "post", 
+                        "var": "bm1.com/test6.php"
+                }
+        ], 
+        "test8.php": [
+                {
+                        "Location": "Referer", 
+                        "name": null, 
+                        "type": "get"
+                }
+        ]
+}

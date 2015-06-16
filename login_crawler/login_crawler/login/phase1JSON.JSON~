@@ -1,0 +1,152 @@
+{
+	"https://app2.com/backup/backupfilesedit.php": [
+                {
+                        "Location": "Referer", 
+                        "component": "backup", 
+                        "contextid": "41", 
+                        "currentcontext": "41", 
+                        "filearea": "activity", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "component": "backup", 
+                        "contextid": "41", 
+                        "currentcontext": "41", 
+                        "filearea": "course", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "component": "user", 
+                        "contextid": "5", 
+                        "currentcontext": "41", 
+                        "filearea": "backup", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "null": "", 
+                        "Location": "Referer", 
+                        "_qf__backup_files_edit_form": "1", 
+                        "component": "user", 
+                        "contextid": "5", 
+                        "currentcontext": "41", 
+                        "filearea": "backup", 
+                        "files_filemanager": "704596436", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "null": "", 
+                        "Location": "Referer", 
+                        "_qf__backup_files_edit_form": "1", 
+                        "component": "backup", 
+                        "contextid": "41", 
+                        "currentcontext": "41", 
+                        "filearea": "course", 
+                        "files_filemanager": "844887953", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "null": "", 
+                        "Location": "Referer", 
+                        "_qf__backup_files_edit_form": "1", 
+                        "component": "backup", 
+                        "contextid": "41", 
+                        "currentcontext": "41", 
+                        "filearea": "activity", 
+                        "files_filemanager": "224442876", 
+                        "returnurl": "https://app2.com/backup/restorefile.php?contextid=41", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }
+        ],
+	"https://app2.com/user/files.php": [
+                {
+                        "null": "", 
+                        "Location": "Referer", 
+                        "_qf__user_files_form": "1", 
+                        "files_filemanager": "817940674", 
+                        "returnurl": "https://app2.com/user/files.php", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "returnurl": "https://app2.com/my/indexsys.php", 
+                        "type": "get"
+                }, 
+                {
+                        "null": "", 
+                        "Location": "Referer", 
+                        "_qf__user_files_form": "1", 
+                        "files_filemanager": "696500951", 
+                        "returnurl": "https://app2.com/my/indexsys.php", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }
+        ],
+	"https://app2.com/course/switchrole.php": [
+                {
+                        "Location": "Referer", 
+                        "id": "1", 
+                        "returnurl": "https%3A%2F%2Fapp2.com%2Fcourse%2Fmod.php%3Fdelete%3D2%26sr%3D%26groupmode%3D-1%26sesskey%3D2B1gMBcBay", 
+                        "sesskey": "2B1gMBcBay", 
+                        "switchrole": "1", 
+                        "type": "get"
+                }
+        ],
+	"https://app2.com/comment/comment_post.php": [
+                {
+                        "Location": "Referer", 
+                        "action": "add", 
+                        "area": "page_comments", 
+                        "component": "block_comments", 
+                        "contextid": "2", 
+                        "courseid": "1", 
+                        "itemid": "0", 
+                        "returnurl": "https://app2.com/", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "post"
+                }
+        ],
+	"https://app2.com/calendar/set.php": [
+                {
+                        "Location": "Referer", 
+                        "return": "aHR0cHM6Ly9hcHAyLmNvbS9jYWxlbmRhci92aWV3LnBocD92aWV3PW1vbnRo", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "return": "aHR0cHM6Ly9hcHAyLmNvbS9jYWxlbmRhci92aWV3LnBocD92aWV3PW1vbnRoJmNhbF9kPTEmY2FsX209NCZjYWxfeT0yMDE1", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "return": "aHR0cHM6Ly9hcHAyLmNvbS9jYWxlbmRhci92aWV3LnBocD9jYWxfZD0yNCZjYWxfbT00JmNhbF95PTIwMTU=", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "Location": "Referer", 
+                        "return": "aHR0cHM6Ly9hcHAyLmNvbS9jYWxlbmRhci92aWV3LnBocA==", 
+                        "sesskey": "2B1gMBcBay", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }
+        ]
+}

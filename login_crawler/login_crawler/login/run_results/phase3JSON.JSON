@@ -1,0 +1,68 @@
+{
+        "https://app2.com/calendar/set.php": [
+                {
+                        "return": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==", 
+                        "sesskey": "usFaGYZhg1", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "return": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==", 
+                        "sesskey": "cfJF9rvOto", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "return": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==", 
+                        "sesskey": "Yz9kFOftfQ", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }, 
+                {
+                        "return": "aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbQ==", 
+                        "sesskey": "jvoQckPqgd", 
+                        "type": "get", 
+                        "var": "setcourse"
+                }
+        ], 
+        "https://app2.com/comment/comment_post.php": [
+                {
+                        "action": "add", 
+                        "area": "page_comments", 
+                        "component": "block_comments", 
+                        "contextid": "2", 
+                        "courseid": "1", 
+                        "itemid": "0", 
+                        "returnurl": "https://www.google.com", 
+                        "sesskey": "r9oudBHT2k", 
+                        "type": "post"
+                }
+        ], 
+        "https://app2.com/course/switchrole.php": [
+                {
+                        "id": "1", 
+                        "returnurl": "https://www.google.com", 
+                        "sesskey": "fVJQhyN8o1", 
+                        "switchrole": "1", 
+                        "type": "get"
+                }
+        ], 
+        "https://app2.com/user/files.php": [
+                {
+                        "_qf__user_files_form": "1", 
+                        "files_filemanager": "817940674", 
+                        "null": "", 
+                        "returnurl": "https://www.google.com", 
+                        "sesskey": "mlq2pUe1fK", 
+                        "type": "post"
+                }, 
+                {
+                        "_qf__user_files_form": "1", 
+                        "files_filemanager": "696500951", 
+                        "null": "", 
+                        "returnurl": "https://www.google.com", 
+                        "sesskey": "ggN46U0iVU", 
+                        "type": "post"
+                }
+        ]
+}

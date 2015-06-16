@@ -9,13 +9,18 @@ from scrapy.exceptions import DropItem
 from bs4 import BeautifulSoup
 import os
 import urllib
+import json
+import ast
 
 class ExampleSpider(CrawlSpider):
     name = 'app2'
     start_urls = ['https://app2.com/login/index.php']
+    postParamsJson = {}
+    postreq_list = []
 
     def parse(self, response):
         try:
+            os.remove("newPost.txt")
             os.remove("newpostLinks.txt")
             os.remove("newgetLinks.txt")
             #generalize
@@ -34,8 +39,48 @@ class ExampleSpider(CrawlSpider):
         ############################################
         soup = BeautifulSoup(response.body)
         forms = soup.find_all('form')
-        with open("app2Check.txt", 'a') as f:
-            f.write(str(forms))
+        for form in forms:
+            eleJson = {}
+            if form.get('method') is not None:
+                if form.get('method').lower() == "post":
+                    print "******************POST*******************************************"
+                    formSoup = BeautifulSoup(str(form))
+                    inpTag = formSoup.find_all('input')
+                    for inp in inpTag:
+                        if inp.get('type') == "hidden" or inp.get('type') == "text":
+                            # print inp.get('name'), " = ", inp.get('value')
+                            eleJson['type'] = "post"
+                            # eleJson["param"+str(i)] = inp.get('name')
+                            eleJson[inp.get('name')] = inp.get('value')
+                            eleJson["Location"] = "Referer"
+                    # self.postreq_list.append(str(form.get('action'))+"=="+str(eleJson))
+                    # self.postParamsJson[form.get('action')] = eleJson
+                    with open("newPost.txt", 'a') as f:
+                        f.write(form.get('action')+"=="+str(eleJson)+"$eof$")
+                    # with open("newPost.txt", 'w') as f:
+                    #     f.write(json.dumps(self.postParamsJson, sort_keys=True, indent=8))
+
+
+                if form.get('method').lower() == "get":
+                    print "*********************GET*****************************************"
+                    formSoup = BeautifulSoup(str(form))
+                    inpTag = formSoup.find_all('input')
+                    for inp in inpTag:
+                        if inp.get('type') == "hidden" or inp.get('type') == "text":
+                            # print inp.get('name'), " = ", inp.get('value')
+                            eleJson['type'] = "get"
+                            # eleJson["param"+str(i)] = inp.get('name')
+                            eleJson[inp.get('name')] = inp.get('value')
+                            eleJson["Location"] = "Referer"
+                    # self.postParamsJson[form.get('action')] = eleJson
+                    with open("newPost.txt", 'a') as f:
+                        f.write(form.get('action')+"=="+str(eleJson)+"$eof$")
+                    # with open("newPost.txt", 'w') as f:
+                    #     f.write(json.dumps(self.postParamsJson, sort_keys=True, indent=8))
+            # with open("newPost.txt", 'a') as f:
+            #     f.write(str(self.postParamsJson))
+            # with open("app2Check.txt", 'a') as f:
+            #     f.write(str(form))
         ############################################
         duplicateCheck = {}
         # hxs = HtmlXPathSelector(response)
@@ -101,6 +146,10 @@ class ExampleSpider(CrawlSpider):
                     with open("newgetLinks.txt", 'a') as f:
                         f.write(link+"\n")
                     yield Request(url=link, callback=self.parse_page)
+
+        # jsonString = json.dumps(self.postParamsJson, sort_keys=True, indent=8)
+        # with open("newPost.JSON", 'a') as f:
+        #     f.write(jsonString)
 
 class App10Spider(CrawlSpider):
     name = 'app10'

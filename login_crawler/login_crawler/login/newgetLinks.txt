@@ -1,0 +1,7 @@
+http://bm1.com/bench2.php
+http://bm1.com/bench3.php
+http://bm1.com/bench4.php
+http://bm1.com/bench5.php
+http://bm1.com/bench6.php
+http://bm1.com/bench8.php
+http://bm1.com/redirect3.php?destination=test3.php
